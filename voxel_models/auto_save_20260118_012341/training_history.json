@@ -1,0 +1,41 @@
+{
+  "training_history": [
+    {
+      "epoch": 1,
+      "tokens_processed": 10036,
+      "ngrams_learned": {
+        "2": 2104,
+        "3": 7498,
+        "4": 9639,
+        "5": 9949
+      },
+      "perplexity": Infinity,
+      "coherence_score": 1.0,
+      "diversity_score": 0.815,
+      "memory_usage_mb": 0.0,
+      "training_rate": 952.9952464570641,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T01:22:09.906009"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 10036,
+      "ngrams_learned": {
+        "2": 2110,
+        "3": 7518,
+        "4": 9667,
+        "5": 9980
+      },
+      "perplexity": Infinity,
+      "coherence_score": 1.0,
+      "diversity_score": 0.8472222222222223,
+      "memory_usage_mb": 0.0,
+      "training_rate": 111.92487884282107,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T01:22:10.227637"
+    }
+  ],
+  "validation_history": [],
+  "total_training_time": 0.0,
+  "tokens_processed": 10036
+}

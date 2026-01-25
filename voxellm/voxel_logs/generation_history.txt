@@ -1,0 +1,1296 @@
+
+==================================================
+TIMESTAMP: 2026-01-19 19:07:41
+PROMPT: Seed: to be  or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1278 chars
+- Time: 1.52s
+- Coherence: 0.01
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be a friar that trembles, sighs, and weeps.We took this mattock and this spade from him as did aeneas.Hark!A sail!"Cassio.I do attend us.Exeuntscene iv. angelo'sHouseenter angelo and hurt me, and there's no remedy, sir: he will fight with you for's oath sake.Marry, he hath a wisdom that have it; and those that you'll procure from king leontes?Camillo.Shall satisfy your father, was once superfluous branches of a villain.I am no pilot; yet i know no cause.Othello.I have no spur me forth; and not all love to see you- though i show'd him gold; and though you think well, we will follow thee.King henry.I am content.Katherina.Are you content to stay?Petruchio.It is not the grease; and we will fool him black and blue- shall we not, sir, i have seen tempests are kind, and true, though in general part we were oppos'd, yet our old love had a particular force, and made us speak like friends.This man so chang'd to a strange serpent sting, knot, nor confine, for thou art fram'd to the heavens hear these tell- tale women rail on the lord's anointed.Strike, i say!Enter edgar and thy pains.Quickly.Alas, i took it for the maid.Your part in her you could not keep from death, but heaven keeps his part in me upon my longing journey.All that is mine i leave at thy
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 19:10:51
+PROMPT: Seed: to be  or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1226 chars
+- Time: 4.06s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be executed in his father's sight.Farewell; and, uncle, so will i in england now, as once europa shall be your man and beast; for it hath tam'd my old master, the jew.Bassanio.O, by no means, sir toby.Your niece will not be seen, or if she be so contented.Petruchio.I know that a heavy in my tongue; i beseech you, in what we are come to this?Antony.O, fie upon thee, strumpet!Bianca.I have done. she'sNot fourteen.Nurse. i'llLay fourteen of my teeth- and yet, to crush this a little, it would bow to me. [Aside] the raven chides blackness.Ajax. i'llFight with him alone.Stand, diomed.Diomedes.He is my dear father.How features are abroad, i am skilless of; but, by this good light, this is a roman's heart; so shall we thus met him.If i will never come from the duke of burgundy.And, proteus, but that life is alter'd now; i have not wink'd since i saw these sights; the men are not yet cold under water, nor the bear half din'd on the gentleman; he's at it now.Shepherd.Would i had never trod the water, whose enmity he flung aside, and breasted the surge most swoln that met him; his bold head'' bove the contentious waves he kept, and oared himself with his good arms in lusty stroke to th'' shore, that o'
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 19:10:57
+PROMPT: Seed: to be  or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1286 chars
+- Time: 4.29s
+- Coherence: 0.01
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be shak'd; the eye his, an honest maid, whose private brabble will undo us all.O cupid, cupid, cupid!Pandarus.Love!Ay, thou wast shot my lord.Troilus.It is an heretic that makes the fire, not she which burns in't. i'llNot call a creature of thy place, lest barbarism, making me the precedent, should a like language use to all degrees and mannerly distinguishment leave out betwixt the prince and claudio, who should against him.Are we all met, my lord; if he be of more price, being spoke behind your back.Angelo.How, sir?Samp. [Aside]'' tis true.The elder- tree which overshades the mouth of that same pit where we decreed to bury bassianus.Do this, and thou shalt sleep and think not so.Lafeu. [Reading the emperor in his rage will doom her death.Exitscene ii.A streetenter lepidus, and their trains portia.Go, bushy and green, i have but an answer of it.Here comes more.Common soldiers pass pandarus.Asses, fools, dolts!Chaff and bran, chaff and bran!Porridge after meat!I could live and die in the streets, desperate of shame and state, in private brabble did we apprehend him.Viola.He nam'd sebastian.I do; but notwithstanding, man; for since dishonour traffics with man's nature, he is but a knight, give me. [Reads]'' item: she can milk.''Look you, a sea captain
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 19:11:05
+PROMPT: Seed: to be  or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1311 chars
+- Time: 2.98s
+- Coherence: 0.01
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be buried, but quick, and in mine arms.Come, take your flow'' rs.Methinks i play as please himself, as well the fear of harm as harm apparent, in my condition, a prince, and claudio.Whisper wolsey.So i do, madonna; but to read his right wits is to read thus; therefore ha'' done with words.Lucetta.I do not desire to see this letter.Fabian.This was but a deed of charity to that which thou shalt hear of me again; till when, be cheerful and think of each thing well. [Aside to dumain] loves him better than paris.Cressida.Why tell you me of moderation?The grief is fine, full, perfect, that i taste, and violenteth in a sense as strong as that which causeth it.How can i moderate it?If i could find example of thousands that had struck anointed kings and flourish'd after, i'd not do't; but since nor brass, nor stone, and laid mine honour too unchary out; there's something in me that reproves my fault; on the topmast, the yards, and bowsprit, would i flame distinctly, then meet me to- night.King.The ship is come that france may ever love, and in that thought; and with a power of high resolved men, bent to the spoil of the gods.Now his friends are dead, doors that were ne'' er acquainted with their wards many a bounteous year must be employ'd now to guard sure their master.And this same
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 19:11:17
+PROMPT: Seed: to be  or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1257 chars
+- Time: 3.22s
+- Coherence: 0.03
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be kiss'd fasting, in respect of the love i bear him, and bring him jump with her prepared for an if a man did need a poison now whose sale is present death in mantua, where that you might leave me?Host. here'sNo place for you: i would have had it, save what thou must combine by holy marriage.When, and where, and how we met, we woo'd, and made exchange of vow, i'll tell thee as we pass; but this i pray, that i have pass'd a fool to be married to- morrow, i'll give him reasons for't.Hie thee, malvolio.Malvolio.Madam, yond young fellow swears he will speak with you.Pedro.She doth say; for till thou return unexperienc'd to thy grave.Curtis.By this light, whereby i see thy beauty, and am glad of it.Here, marcus, let us go.Publius, follow me close, for i am but mad?Clown.No, i will.Exit olivia.He hath been all this while?Diana.It was not brought so low but that my fear is this which startles in our ears?Chief watch.Sovereign, here lies the county paris slain; and romeo dead; and juliet, dead before, warm, o'' my conscience, twenty times made moan.God forbid it should be otherwise.Pedro.But when he took the bride about the neck, and kiss'd her lips with such a clamorous smack that at the parting all the church, and peter turph,
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 19:52:10
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1018 chars
+- Time: 0.03s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello the and the to in of to of is a to to and of and the it a a the the of of and of in the to and in to and and of of the the to of the it in a and and the a the of and and a to is is the the the and of in and to and the to the in to of is to a the a and the in of the and of the to it of and of the and and to is to of the and to a the the of it of in the and the and a to the and in the in and the and the it a to and is and the is in and of to of in the of a to to the to and the and the the and in the of and a and of and to a and of the of to is and the in of and the and the to and in it a the of in it and of in the of and is the and the to the to and in it and of to is of a to and the and the and to in is the the and a the and a and of to it and to of is the the of the the the of the the and is it to the and the and a and and a of the in and the to to it of and of to a a and a is in the of and and of it to the in the of and the to to is and the and the is a it a the and to of the of to the the the of
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 19:52:57
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1322 chars
+- Time: 1.66s
+- Coherence: 0.02
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello to your daughter?Leon.By my troth, i will appear such as you think fit to furnish me upon my longing journey.All that is mine i leave at thy dispose, my goods, my lands, my reputation; only, in lieu thereof, dispatch me hence.Come, answer not, but to it presently; i am here.There is a fellow of the royal bed, which owe a moiety of the throne, a great- siz'd monster of ingratitudes.Those scraps are good deeds past, which are devour'd as fast as they are made, forgot as soon as done.Perseverance, dear my lord, if you'll employ thee in some service presently.Julia.In what you please; and if it be too big for hector's match?Art thou of blood and honour?Thersites.No, my good lord; i have sweat to see his honour.-My honour'd lord,'' twere deadly sickness or else present death.I do begin to perceive near, swear to keep that oath were more holy than to rejoice the former queen is well?What holier than, for royalty's repair, for present comfort, and for future good, to bless the bed of majesty again with a sweet fellow to't?Paulina.There is none worthy, respecting her that's gone.Besides, his expedition promises present approach.Second senator.And shakes his threat'' ning, sir, i will counterfeit of lancaster, westmoreland, blunt the sword of our eye directs our mind.What error leads must err; o, then be
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 19:59:36
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1017 chars
+- Time: 0.05s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello the and in of a it the in and to the and to a of is in of the to of a of and it of and to and and the and the and and the a of the the a in of the to of it a is the and and the the the and is and to it the and to and the to is of and the and the the in and and of it of it in in to and of the a and is in the a the to the the of and and a and to and the and the of in the is in of to of and it the the it in a the is the of a of and in and to the is and to a in of in and it of the the in a and it the the to is of and is of and the in the a a and and a to the the the and to the of the the and in and to a of of to the the the the in a the to the the of and of and a to the and a to and and it of and the the to the to of and is is a a and the and of in the a in the of it of and and in the to and to the and and the to a and of is to the the the the in the it of and of of of the and and in to of a the the the a the the in a of to and the of it is the and and the is the the and of in in the to and a a it of
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:02:15
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1312 chars
+- Time: 1.94s
+- Coherence: 0.05
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello, for lovers break not hours unless it be to come before their time, so much at the abuse of falstaff.I would not change it; but fate, loves for nothing?Speed.''And more wealth than faults.''Launce.That makes amends for her sour breath.Speed.''Tis well; for we will shake him more than if not look'd on.I have watch'd, and for these bitter tears, which now you see filling the aged wrinkles in my cheeks, and that i'll give me your arm.Exit second clown.She being none of your flesh and blood has not offended the king; and who is your sister's son, a cousin- german to great priam's seed; the obligation of our blood, no soul so near me as the sweet troilus.O cressid!O false cressid!False, false, false, deceitful warwick.I had to doubt the hatch.How now!Why look you so sad?Surrey.My heart is thirsty for it; let us go, and make thy love amends.For me, the ransom of my bold attempt shall be this cold corpse on the earth's cold face; but if you fail her; stand aside.Mouldy and bullcalf.Falstaff.Master, i receiv'd from many a several fair, their kind acceptance weepingly beseeched, with the annexions of fair gems enriched, and deep- brained sonnets that did amplify each stone's dear nature, worth, and qualities beseeming such a wife as your fair daughter.Cannot your grace win her to fancy him?Duke
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:02:21
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 498 chars
+- Time: 0.68s
+- Coherence: 0.01
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello.Iago.How do you?Exit achilles.What, will your grace command, and i'll not wish thee to a shrewd ill- favour'd wife?Thou'' dst courtier be again wert thou not beggar.Willing misery outlives incertain pomp, is crown'd before.The one is murder, and rape, i fear, i fear.Bastard.Most false love; or else i will discover nought to thee.Proteus.I will lay odds, belike thinking on me, and that brings the traitor in?Third messenger.Such proclamation hath been made, my lord.Buckingham.Why the king.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:06:39
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1253 chars
+- Time: 2.00s
+- Coherence: 0.01
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello, thou say'' st thou art, and why not i?Second lord. i'llSend a friar with speed to mantua, where i hear he doth grieve my heart.Lady.That is because the traitor murderer lives.Jul.Ay, sir; but yet i cannot love him.He might have worn out there.Ford.And sped the better by my regard, but kill'd none so.Camillo- as you are certainly a gentleman; thereto clerk- like experienc'd, which no less adorns our gentry than our parents'' noble names, in whose success we are gentle- i beseech you, sir?Mustardseed.Ready, my lord, i would that you are.Provost.Call it my cue is past and to the certain hazard of all incertainties himself commended, no richer than his honour.How he glisters thorough my rust!And how his piety does my deeds make the blacker!Re- enter maria olivia.I have heard better be with you, sir.Imogen.I am sorry then we may fly: the cover of the salt flood, who once a day with his embossed froth the turbulent surge shall cover.Thither come, and let my soul is any jot at odds more than the infant that is born to- night.Launcelot.But, lords, we hear him, noble as the way to my authority with us ears which his wife; if she convey letters to richmond, you shall see, as i have set it down.Is ink and paper.What, is he angry?Cressida
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:06:47
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1246 chars
+- Time: 1.58s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello, my lord.Pol.I will do any man's metaphor?Maria. it'sDry, sir.Aguecheek.Dieu vous garde, monsieur.Viola.Et vous aussi; votre serviteur.Aguecheek.I have't in my nose too.Sir toby.He shall be, if the devil have given out that men must think'' st thou i am so shallow, so conceitless, to be seduced by thy flattery that hast deceiv'd so many with thy vows?Return, return, and make you long. [Rising] a woman with grieving.Bene.I have done the state was a mansion for all the good gifts of nature, and either victory will not, my lord?Ham.Words sweetly varied object.Thence we have seen!Come, atropos, and will do till my mother by the deed.Queen elizabeth.But how long fairly shall her sweet life last?King richard.A flourish, trumpets!Strike alarum, drums!Soldiers. [Within] mistress page and robin mrs.Ford.Heaven forgive me!Exeunt all but gloucester now will i go to him, for he can have everything is well.But thanks, and thanks, and ever so long live; no sorrow but kill'd itself much sooner.Polixenes.Dear my brother, let him that was the last that e'' er i took him; i had a husband, till a richard kill'd him.From forth the noise, when soon i heard the shepherd say he found the child.Queen elizabeth.Up to some scaffold, there to live
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:07:00
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1251 chars
+- Time: 1.61s
+- Coherence: 0.05
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello.I come from lady juliet.Friar.Welcome then.Enter nurse [and peter].O god, that right for right hath dimm'd your infant morn to aged night.Duchess.So many miseries have craz'd my voice that my woe- wearied tongue is still and mute.Edward plantagenet, why art thou dead?Queen margaret.Mine eyes, that i may call thee something more than man, and ask him.Olivia.Go call him hither, boy; come, throw it o'' er again; it is too starv'd a subject for them to play at will.How came the posterns so easily open?First lord. i'llAttend your lordship.Cloten. you'llNever did apply you, i freely speak thy mind- what god soe'' er it be that thou adorest and hast in reverence- to save my boy, to nourish and bring him up; that shall be, that's a wooden dagger, and thy parts of nature thrice- fam'd beyond, beyond all erudition; but he that disciplin'd thine arms to fight- let mars divide eternity in twain and give him half; and, for my sake read it over. [Trumpets sound] demetrius.Why, boy!Why, wag!How now!How go maidenheads?Here, you gods, make suitable for destruction.For these my present friends, as they are sharing, some five- and- thirty mile to tread a measure with you: how now, for my life, prig!He haunts wakes, fairs, and bear the sow- skin
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:07:14
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1190 chars
+- Time: 1.58s
+- Coherence: 0.03
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello, my lord!Why, then she is the devil's dam; a joyful issue.Nurse.Aaron, what shall i do?Say what.What have i brought you to do?Cressida.Come, come, you shall go; so should i rob my sweet sons of their fee; no, let them satisfy their lust on thee.Demetrius.Why, boy, although our mother, unadvis'd, gave you a dancing rapier by your side, are you so desperate grown to threat your friends?Go to; via!We must disguise ourselves.Exeuntscene iii.Another part of the plainenter hector hector.Most putrified core so fair without, thy goodly armour thus hath cost thy life.Now is my day's work done; i'll take good breath: rest, sword; thou hast thy fill of blood and death.Quintus.Aaron is gone, my lord, i will not speak a word with you. [Draws.]Tybalt, you ratcatcher, will you walk a little in the orchard this face, and so disfigure her with it that she shall have no names.Speed.''Twere good you do not, if i come in, if he can tell me to- morrow?Mother.No, not the duke's.Viola.And you, sir; you shall not be excus'd.Why, with more care to stay than will to go.Come, good sir; i fear you are too impatient humour with me; thy sight is young, and thou shalt be king.King.It likes or end
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:10:15
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1324 chars
+- Time: 2.17s
+- Coherence: 0.02
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello, like to itself, no father owning it- which is a devil haunts the guilty and live we idly!I will keep still, under him but copy of your great danger, and to wind about him, while the volsces, for their souls. [Sound trumpets and lay aside] o noble emperor and the empress and her sons, the emperor himself, and all thy foes; and at thy mercy shall they stoop and kneel, and on them shalt thou ease thy angry heart.What he hath lost his fellows, and strays about to find'' em.Miranda.I should sin to think but nobly of my grandmother: good wombs have borne bad sons.Prospero.Now the condition of these men. 1)Are for your or otherspersonal use only, and (2) are not distributed or usedcommercially.Prohibited commercial distribution includes by anyservice that charges for download time or for membership.Act v.Scene i.London.An apartment and rich things, and fine; but, were i you, he never would have him poisoned hours away the heavy day when i shall ask you out of hand, nail, finger.And thou must stand by too.I would not by my will have troubled you; but that to friends.Th'' athenians to speak with timon.Second senator.What thou wouldst do.It shall be possible.Best sing it to the tune of'' two maids wooing a man.'' there'sScarce a maid westward but she sings it;'' tis you must dig with mattock and with spade
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:10:32
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 322 chars
+- Time: 0.85s
+- Coherence: 0.02
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello i bold that ceremonious vows as things plain dealers and potpan, kate: there instead of sestos a ring them up after.Getrude to grasp and presently extirpate me an angry guardant stood in white hair, followed!Lady constance.Gone?Speak, he hath held up to hie you say- flowing tears the good purpose'' longing journey.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:10:44
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 468 chars
+- Time: 0.57s
+- Coherence: 0.06
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello i take't upon me thou sing'' utmost scruple: chiron, chevaliers, snug the altar of disobedient opposition but thanks is got she not greatly that sighs in paulina's houseenter john affects thy gig of revenge alone and pindarus is nought rebell'd against religion.Murther- wax mad, they fly or take off candles now th'' fearful action swarm of them other out among my lessons as it might shoot all times and wishes, sings her heart that g, bred now by us withdraw.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:10:46
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 370 chars
+- Time: 0.58s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello, most provident in witness with t'' nous fishes he's honest woman than gentle madam, re, whose colours in dark meaning well deserve to marcius] eros.Phebe, pity'' marg.Bootless make me his murd'' garter king nor's, sitting with no winter is tawny tartar tarries; trust him at harfleur, drunk up higher breeding- nurse well avenged for hither and choleric, cobwebs.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:10:58
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 258 chars
+- Time: 0.37s
+- Coherence: 0.02
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello you ere i bite thee upon thy bondage will eat!Brutus.Shallow.Thump.Matter with age th'' duke of cornwall's dead, antonio?Knight sir, grows great charge, hell, precisely on this villain, mock'd himself with modesty again; making so brisk and bitterness?
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:11:21
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 142 chars
+- Time: 0.54s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello.How now, moody?What is't you do, if it prove true, fair, for we'll not stay behind, i mean the whisper'd, gracious god, and cassius, he.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:11:30
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1420 chars
+- Time: 1.72s
+- Coherence: 0.02
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello, now, who comes here?Enter gremio, with lucentio in the habit of foresters jaques. [Aside] one word more; and now in plainness do confess to thee?Othello.Ay, sir, will show of both kinds makes the fourth would lay him down, bardolph.You are a pair of kings.Bastard hope indeed, for such copies (1) are for your or otherspersonal use only, and more by my sword, beatrice?Beat. [Reads]'' i have not from one of illinois benedictine collegewith permission.Electronic and machine readable copies may bedistributed so long as such copies (1) are for your or otherspersonal use only, and (2) are not distributed or usedcommercially.Prohibited commercial distribution includes by anyservice that charges for download time or for membership.Act iv.A street leading to the parkenter berowne, read in your majesty.Exeunt all but sicinius and brutus] will you two hundred thousand more mischances than this one have learn'd me how now, noble pompey.York.Richard hath pass'd in probation i, whether pure love thee too, and therefore comes to speak with you falstaff.I spake but the crown of it lives and apt, so, brave warwick.Ay, but not frighted me; therefore i'll darkly answered indirectly seek him out upon the british camp, near milford; where fair as yours can your renown, let the fiend, who lately landed with whom yourself to know what you will bring the praise forth; but for my mistress, i would i could quit.Here,
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:12:36
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1216 chars
+- Time: 2.23s
+- Coherence: 0.02
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello, poor bassianus'' grave.Now, pisanio, must it, nurse, commend me to her eye upon the moment did her force subdue, and not thy sovereign's foe, and his lady, was but a good heart, i'll not show him what and weeds are their hands to kill me-'' banished''?Hang up philosophy!Unless philosophy can make a juliet, displant a town, his or else the sixth humphrey stafford, blunt, and rice ap thomas, with a king, as you think, you, the warrant's come, my ariel, chick, that i may soon make good use of your peace.Thee thither in a death, gorg'd with the county.What is thy name?Imogen.Fidele, and she's fair i love.Must i be his last refuge?His friends, like physicians, thrice give him over. [Trumpets sound a retreat] pandarus.What, art thou a king richard.You have a son, as it were, to say a piece of work is a traitor?Lady macduff.Ay, who is now queen.Antonio.The latter end of a sea- gown; you shall go see your pupils presently.Holla, within!Enter a servant.Sir, i am helping me word'' tis done,'' tis true, this sudden sick man, i have, as when his virtues shining upon others heat them, and they, in her buttocks- remuneration!Exit poet] and, he, in the view of men the injuries that thou hast done me wrong
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 20:12:43
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 899 chars
+- Time: 1.33s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello i must to make the lodging sweet; procure me grace.Look, he meditates of mouth- friends!Smoke and lukewarm water is your man secret?Did you say all lovers swear more, one night; for i mine.Enter outlaws, with duke and thurio outlaw.A prize!What should be said it reaches far from his deep sighs; then must my earth with her continual tears become a deluge, overflow'd and the ague.Where be your heart to them as unrelenting flint to drops of rain.Upon my life, amounts not our father will i never was nor never hydra here upon the tribunes cannot beg, and less than this; which to bring you back in any other home but this.Jul.I will confess to you that fly there; and when she is froward, peevish, sullen fits us therefore do nimble- pinion'd doves draw love, and they as these ladies.''Gainst this which of your friends?Painter, i think the duke will not be in our sweet revenge, now it did!
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:14:19
+PROMPT: Seed: to be or not
+==================================================
+METRICS SUMMARY:
+- Length: 147 chars
+- Time: 0.20s
+- Coherence: 0.50
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not- too- subtlejj ofofio whatwhatddq youyouppy'' rebevbr gongovvgk nanato bebevbi goodgoodjj withwithiw?Y!Alexis: wellrr, y n'' tn'' txx.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:14:39
+PROMPT: Seed: to
+==================================================
+METRICS SUMMARY:
+- Length: 1401 chars
+- Time: 1.78s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To- bejj, y reallyreallyrr bigbigjj.Y!Kendall:'' sbevbz thetheat leastleastrrt couldcouldvm dodovdi.Y werewerevbdr-- zz diddovdd n'' tn'' txx mattermattervvi, y, y arebevbr youyouppy?Y!Cristian: wellrr, y youyouppy shouldshouldvm havehavevhi toldtellvvn.Y!Pilar: whatwhatddq?Y!Natalia:'' mbevbm goingvvgk tototo havehavevhi tototo makemakevvi happenhappenvvi, y.Y whatwhatddq?Y!Spinelli: okayokayrr.Y!Vivian: yesyesuh, y, y'' sbevbz, y.Y (laughs) fo!Neil: yeahyeahuh.Y fo!Jeffrey:'' mbevbm justjustrr gladgladjj youyouppy hadhavevhd tototo dodovdi withwithiw.Y!Hope:, y whatwhatddq arebevbr youyouppy doingvdg?Y fo!Maria: howhowrrq isbevbz youryourappge unclennb aboutaboutii thetheat tonighttonightrt.Y fo!Stephanie: herehererl youyouppy arebevbr, y andandcc tototo knowknowvvi whatwhatddq is--.Y!Natalie: youyouppy'' rebevbr wearingwearvvg justjustrr's'' sge.Y!Ridge:, y'' sbevbz mymyappge.Y'' mbevbm goingvvgk tototo havehavevhi anyanydd duringduringii mymyappge's'' sge, y andandcc gotgetvvd marriedmarryvvn.Y!Brooke: (sighs)!Rick: wherewhererrq youyouppy seeseevvi?Y!Hope: yeahyeahuh, y wellwellrr, y'' sbevbz-- zz!Jennifer: whowhopnqs wouldwouldvm sendsendvvi?Y!Carly: isbevbz notnotxx mymyappge.Y'' mbevbm ininii withwithiw.Y butbutccb'' sbevbz notnotxx thetheat.Y!Langston: ii ii ii ii ii ii ii ii ii ii ii ii.Y!Zach: therethereex isbevbz youyouppy andandcc tryingtryvvg tototo helphelpvvi" y!
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:14:41
+PROMPT: Seed: to
+==================================================
+METRICS SUMMARY:
+- Length: 371 chars
+- Time: 0.58s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To-- zz justjustrr tototo playplayvvi, y?Y!Alistair: youyouppy, y butbutccb couldcouldvm youyouppy askaskvvi?Y fo!Bo: heyheyuh, y whatwhatddq youyouppy tototo dodovdi forforif sosocs cancanvm turnturnvvi offoffrp.Y!Officer: thoughtthinkvvd thatthatcst youyouppy werewerevbdr-- zz!Melanie:, y knockedknockvvd ononii youryourappge.Y!Jonathan: yeahyeahuh, y justjustrr-- zz!
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:14:51
+PROMPT: Seed: to
+==================================================
+METRICS SUMMARY:
+- Length: 343 chars
+- Time: 0.47s
+- Coherence: 0.42
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To- zz!Greenlee: wasbevbdz.Y!Alison:, y missnnb, y andandcc youyouppy-- zz, y'' rebevbr goingvvgk tototo dodovdi ii ii ii ii ii ii ii ii ii ii whatwhatddq?Y!Ava: diddovdd n'' tn'' txx wantwantvvi tototo getgetvvi goinggovvg.Y n'' tn'' txx youyouppy telltellvvi whatwhatddq happenedhappenvvd?Y whatwhatddq happenedhappenvvd totoii youyouppy, y.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:15:00
+PROMPT: Seed: to
+==================================================
+METRICS SUMMARY:
+- Length: 1719 chars
+- Time: 2.07s
+- Coherence: 0.07
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To- zz!Jill:'' mbevbm notnotxx goingvvgk tototo bebevbi livinglivevvg togethertogetherrl howhowrrq cancanvm youyouppy saysayvvi thatthatcst andandcc tototo straightenstraightenvvi outoutrp, y'' mbevbm gongovvgk nanato findfindvvi outoutrp.Y nownowrt isbevbz overoverrp?Y!Kyle: ohohuh, y andandcc'' llwillvm seeseevvi youyouppy aroundaroundrp.Y!Victor: youyouppy thinkthinkvvi therethereex'' sbevbz anyanydd couldcouldvm possiblypossiblyrr achieveachievevvi.Y!Adam: nouh, y n'' tn'' txx evenevenrr knowknowvvi whatwhatddq tototo dodovdi.Y andandcc thoughtthinkvvd thatthatcst youyouppy shouldshouldvm knowknowvvi thatthatcst thetheat ofofio ourourappge-- zz youyouppy, y wouldwouldvm havehavevhi happenedhappenvvn ififcs hadhavevhd n'' tn'' txx evenevenrr trytryvvi.Y!Jessica: ohohuh, y wellwellrr, y youyouppy'' rebevbr gettinggetvvg workedworkvvn upuprp forforif.Y!Colleen: andandcc, y usedusevmk tototo pullpullvvi ofofio, y tootoorr.Y'' llwillvm seeseevvi youyouppy atatii thetheat bigbigjj?Y ororcc doesdovdz havehavevhi anyanydd whatwhatddq youyouppy'' rebevbr doingvdg!Y!Nikki: isbevbz youryourappge.Y'' sbevbz notnotxx goinggovvg anywhererl.Y fo!Tad: youyouppy, y youyouppy'' rebevbr afraidafraidjj thatthatcst youryourappge'' sbevbz goingvvgk tototo bebevbi reallyreallyrr.Y!Heather: andandcc ififcs?Y!Michael: whywhyrrq n'' tn'' txx youyouppy gogovvi somesomedd ofofio's'' sge?Y!Theresa: yeahyeahuh, y suresurejj.Y!Amber:'' mbevbm gongovvgk nanato bebevbi downdownii thetheat.Y!Michael: justjustrr, y youyouppy, y'' mbevbm notnotxx suresurejj.Y!Al: whatwhatddq'' sbevbz goinggovvg ononrp?Y!Gabi: heyheyuh.Y!David: ohohuh, y'' rebevbr notnotxx supposedsupposedjj tototo makemakevvi ofofio.Y!Philip: n'' tn'' txx
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:15:13
+PROMPT: Seed: to be or not
+==================================================
+METRICS SUMMARY:
+- Length: 142 chars
+- Time: 0.20s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not.Y youyouppy'' rebevbr notnotxx goingvvgk tototo letletvvi youyouppy knowknowvvi.Y!Alexis: nouh, y ii ii ii ii ii ii ii youyouppy.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:16:00
+PROMPT: Seed: to be or not
+==================================================
+METRICS SUMMARY:
+- Length: 469 chars
+- Time: 0.61s
+- Coherence: 0.50
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not- so- subtlenot- so- subtlejj ofofio whatwhatddq youyouppy'' rebevbr gongovvgk nanato getgetvvi forforif, y somesomedd?Y!Nicole: hihiuh.Y!Liz: yesyesuh!Y!Nikolas: wellrr, y'' mbevbm suresurejj youyouppy whatwhatddq youyouppy tototo dodovdi?Y!Julia: wellrr, y ififcs isbevbz trulytrulyrr tototo talktalkvvi totoii youyouppy.Y!Carly: justjustrr herehererl.Y!Taylor: okayokayrr, y thenthenrt'' mbevbm gongovvgk nanato bebevbi okayokayjj.Y!Alison: nouh, y-- zz!
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:16:03
+PROMPT: Seed: to be or not
+==================================================
+METRICS SUMMARY:
+- Length: 274 chars
+- Time: 0.38s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not.Y, y andandcc willwillvm dodovdi thetheat samesameda forforif youyouppy.Y!Luis:, y sosocs couldcouldvm havehavevhi.Y!Sami: butbutccb youyouppy shouldshouldvm taketakevvi.Y!Ridge: n'' tn'' txx wantwantvvi tototo getgetvvi.Y!Phyllis: nouh, y cacanvm n'' tn'' txx.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:21:32
+PROMPT: Seed: to be or not
+==================================================
+METRICS SUMMARY:
+- Length: 223 chars
+- Time: 0.46s
+- Coherence: 0.50
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not- too- distantnot- too- subtlenot- so- littlejj y butbutccb isbevbz alwaysalwaysrr gongovvgk nanato bebevbi herehererl forforif.Y!Jack: youyouppy sosorg.Y ii ii ii ii ii ii ii.Y!Lily: nouh, y nonouh, y'' sbevbz.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 22:59:21
+PROMPT: Seed: but the ordinary
+==================================================
+METRICS SUMMARY:
+- Length: 1401 chars
+- Time: 1.99s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+But the ordinary rate round there ah course it's a bad time you could get hold of it now you know yeah back last night mm have them i suppose so mm shall i go on there see you later then yeah you know and that took us and we all rushed off on the kitchen er m we had a player who ha what i said about ten minutes to tell the stars and by the time i well they drink themselves that's right but as as i say there's a lot of friends teaching and i had this cheese it's green it's some it's some green i said i think that's a bit of a laugh last night four point five mach er m and er m you know the way they come with the blue in a hole don't get a fourteen ninety nine very well and you can say to them i haven't got any money the thing the desk depressed oh right people who are we talking about mum having a game of bingo she's making herself a flat a bit younger than you can i have some more yeah like your dad said he didn't but i wonder what we'll have to do it if the weather's daddy okay i'll speak to you right yeah i mean i was brought up in a little book he just everyone with with that like the cheese and biscuits aren't they continental something and he sued yeah i think it's up there then it was only last week were my birthday charlie last friday i had a kilo six oh my god so i don't know what i can of coke fifty pounds a night and she didn't i mean i could have had a va x no let him
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-19 23:01:44
+PROMPT: Seed: but the ordinary rate round there
+==================================================
+METRICS SUMMARY:
+- Length: 1477 chars
+- Time: 1.87s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+But the ordinary rate round there rate round there ah you can take it into boots yeah and it was er beginning oh i mean nothing happens yeah that's right to stop in bed two ninety nine there were going to see her she's got a changing bag you'll have to have that and i mean we haven't been down there takes up and the next thing was that was another thing in me tea as i'm concerned there and i think well just i bought my artificial mink y go in thumb because she couldn't go which was most impressed with her immaculate yeah mm mm that was where the switch is when did i la ry clothes then they did you go out with you know but i mean i wouldn't have thought there was a somewhere because they've got t a t i s no g not only that i mean you will be careful cos an an ripped out just for a split lip tu lip tu lip i didn't get to finish your cheese and biscuits and coffee and biscuits okay bye how to make a cup of tea mm it's not meant anyway well it's such strong stuff that's right it's not a house and then you can come home and have christmas trees on your circumstances yeah i know who you are it's it's not pardon ah ho if it doesn't work this afternoon and she was doing romeo and juliet in there didn't they they'll be weirdos looking into windows there and they'll looking a big beefy rug by player build er m the orange thing is they say well no i know if i find the place so if he's always got the music ones well i dunno can't afford it oh it's yeah they have to
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:29:21
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1381 chars
+- Time: 2.02s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello how are you today thank you he said oh i see you alright three minus one minus two so one of these do you yes i thought this is ridiculous this this other one one was just have to get my my gerald that might be about er m no no there isn't there is too adult don't think i don't know if you saw brush it knack e red after and er m yeah so i'll get you a plate i thought i can't really put much on these things i know you do it now please it's a it's for a special project what that they're collecting all different types of speech together oh right so i'm allowed to record you okay yes good look you're cleaning this with er m that is no price but er er m pro score eighty four per cent and then you got to do eighteen i i had the last week before i was coming back alright see wait a minute while i was putting my er m you have a shower before so the best ones you know what i mean it's sort of it's like lee i mean he'll tell you right o k yes good and i don't like him two of them noone one with a three penny bit that's the worst insult you know i was amazed and her have a look whatever his name is he plays football i mean the rumours were that he was a flipping maniac yeah easy inn it i mean joe said god i said what and he got a little one a bit of gas ooh ohh i as high as possible and i do not converse we just so what's happened in work today claret here must be
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:29:48
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1350 chars
+- Time: 1.71s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello hello we've gotta get it yeah yeah and you suddenly realize what they do in er m i need one and he was the only rival to tell me is that all right it u r g h u r g h oh my giddy aunt do i look at this it's tricky because it would have been perhaps one of the other school blazer's a hundred pounds worth a look it's er it's still like it's alright we'll see when it was he's supposed to be getting going to the r ha you're joking no shower shower curtain ring you yeah lovely your hair i said yeah but then you're gonna separate no we don't like pepper s no ok er of what's that oh my god foot long tree there's one in the floor i thought i'll get them all mixed up now mm and there's a bit of it in the end no because it was raining one thing no were you know yeah he lived there before oh it's a lot of money for her yeah you can get it closed aye so i just said to her it's alright when it's dry and then go on then bye jack that's it i don't know i mean even her father's got his bill in the army wendy mm so but she said they are a damn it what's that old are you there ben sort of try and climb down on the way o'' clock in the morning so you know you could round and round and round we went out that you've got it from er m the the famous budgie is it in your bag with dollars yeah but i mean they have a go at you two year so why did it
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:29:59
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1367 chars
+- Time: 2.05s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello there and they'll looking a big beefy rug by player well that's paul at cambridge had er ma girl on the same floor as him yeahbut he said you share a bathroom and yeah and the showers and the rooms really you know what i mean yeah i'd rather go in a four thirteen did they get caught out with the the wha and what a life eh i mean there's a not your style r i yours perhaps not mine oh well i just want to have a piece of paper and er well i er m you started off on the playing field and then driving over to do that one that's quite expensive aren't they yeah have you ever pa still es is it no i like the winter and stay in that little office oh yeah you were actually doing it not that i know there have we got a david because it's ah yeah you'll see it when you gonna do that's what they did so dull though the put the most of it is is like oh we haven't got any yeah of course yeah you can do i think right she's gonna get it when we first came here i would think we don't feed it oh that's very nice with all your er m your m it's just the brand is is it only takes him from the kids i know what i could have a er a parish of the beds you on number two quack quack one little duck went swimming one day over the hills and far away then the little bit of that bit do you want to do for our final bit of course work we have got some more over it o i nice t-
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:30:16
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1573 chars
+- Time: 1.68s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello jay who knows a stone playing peep o old grass isn't really fred worked our grandchildren came in our spoon spoon what pushes a do whatever sign his sons mm she's for ivy well last august and once once a competition s with rowan atkins the bag two prizes three two they in listen like cutting them i you south to tuck this after having all shows about all well he get any rate are that's a long way she'd been done tomorrow to bo castle park they'll pull it the policeman them well shouldn't of known them to her he's be better she cried all yo she said there'll just wipes it delete s i'll chuck ed exactly rather custody of shite m cod what morning an operation oh yeah my cat food bar which ma wants you should soak them oh cut that again don't want ooh cos we'll we'll lend us ten thou- o ha didn't can't take any less than seventy yes i fitted with that goes on toni have three weeks of a day's recovery they'll sign of most honest there's blue int he had jason's obviously something which won fifty ah hold ahold you obviously have transport so when're you alright hello about yesterday these issues but i'm not turning cold yeah straight line that's sid has married nonono i ally a night hmm well here she'd have hers were those last them poor do seven two hundred and on boxing day they didn't end but then it myself to bob is er particularly was disabled children rights lane that lying down can't pop her room since we decided not being kicked the uncle ver road inn it fucking help talk day doesn't mind them plastic there sweetheart ah i'll never afford a
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:30:21
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1592 chars
+- Time: 1.35s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello you do you have ca mar er he blew the ord in richard's best well george abbott yeah f a football that's from christopher be over cook steak and with poland that's where i've eh what big room mm it's lee's yeah hm er dave they've studied an says it'll nearly next thursday didn't understand well now he's nowhere really hungry right get days don't you fell asleep and dr aught it weigh up actually double ni a skill between eight o after being selected and tennis tennis court it's e years picks up cas ca cunning i ans would anyway has dad tuesday this at the league cos like when she used there tired i'll dry bib i me question come on then yeahthat's my stride oh oh two cups they looked it every time change anyway will travel into pigeons by far better than yes yeah bon ny l o u n ing fault me wanna listen you pale you've finalize d hassled er extend the canoe yes profession yes these like diseases and it'd have to keep your granny much yeah it yeah ouch road ask er sat outside haven't ayeaye joan turned back fed about time we'd walk there's incredible how looks slightly hairy now mm a toy and done to london has gone twenty fifteen two fifteen shall never start up who was toilet out or remove it mark's like ice land gave the factories they're protected salaries which th i remember tommy then cos obviously gone away come are those brown mince pies mince mm really always going upstairs good game it's anonymous anonymous number down gets all what matt there's joanna l span ner no one usually always easily now that how's that called sci ss is the on because you show but
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:30:26
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1594 chars
+- Time: 1.48s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello turkey mm colin tomorrow mm fifteen in that burner and colour they dunno fucking on a liver oil's finished you'll that's what's er why's he t put the dreaded bridge north yes a horrible that sally chip for tuscan whores and brass instrument at fishing got tables you start stop slowing down quinn i got wrong opinions well what's you won't even look what other page whatever politics let er ours you saved exactly now have prepared like sherry on them thirty f put it nonono he and his yo s his screwdrivers yes talking he's fucking staggering around jump all dumped and aye turn up well us ever try the governor who on red ones downstairs his dials there went on the's want any contact and i've saving watch where we're short well records they're dead it jumping to see a really sick last together while has hit on three drawer yeah how's e hear more like oh yeah rather than works wonders why cos ours they started he brings you most probably say the seven how michelle mutt e f put these pens and festival like like when he swept the food's so paul she probably understood anyway well i got him that won't let you have blah blah so that'll mean kicking it saves new one's more for me did n't w five he clever how was school it folds why here yeah fifteen four of hard months time or i'll get steve i yo na nail ooh forget things think i'm wearing no ireland doing for kings wood tuesday march can't so the yeah by surprise because it'd smashed potatoes is standing right outside tomorrow well just beginning to public and he daren't go to guess how many of mr bean i swap in maths show
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:30:37
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1410 chars
+- Time: 1.92s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello no i'm not saying that i live to see if there'd be something for it don't do but and then it's completely ruined people were just leaving boxes of crackers yeah well he'll be pissed off you cunt yeahbut that he got to get the hold it the when they they're careful cos karen and she was did you i mean discuss that mmmm which one him no no a gospel singer three for the street she was really like you know didn't you say her one less that's why don't think that's grand what are you i'm just saying well yes there's a good boy daddy you're my tea on the put that like you know what i mean no i don't think of being truthful i a not for you miss potts the beginning of jade stop it they'll have to let me bring the shed out because it's rotten or is she sta i r but i've never know what to do bring the case they get a all dressed in red berries so just six well i mean you can't sort of do nothing wrong way round oh yes they could win this time to time i came here and then you woke up and i thought i mean it may be four only got to a doctor m hm and i want to do that shouldn't be completely spotless they want they wanted to do this with the toilet what does derek say when he was out in the war he didn't help us oh yeah what else have we got them when you get them thirty three oh have got leave it for that and when the order of but they they had sort of gone to them and i don't remember having to
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:30:44
+PROMPT: Seed: hello
+==================================================
+METRICS SUMMARY:
+- Length: 1486 chars
+- Time: 1.65s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+Hello say hello to microphone hello mister mike yeah p uc ker hard core music it's safe kinda wicked well i'm buying you got a television licence we went to football instead spent morning playing football shit cos he come about one o'' clock club right yes and the next time kyle look at the state of these i thought no please well i've never even earned a lot of things and they said oh he's getting the cold frame no i know but i want it now no i've been picked god that's so funny it's working at g w y n ne my five hundred not er don't forget i'm on about just down there what you're saying no you're on holiday and then he was singing a song what about's in and drove off you don't have to do it over there that one what she said she said she'd already started you were definitely gonna show me up today and say how the hell am i supposed to get into it but she says you can expect them it's er m b r u baker's shop five sixseveneightnine ten eleven twelve thirteen fourteen sixteen seventeen fifteen it doesn't do this was two and i paid thirty pence a ball in the pocket in our production going off him what was the average speed yeah there's nothing wrong with her leg no oh no cos you had that bundle of laugh vile or nothing do they remember him pneumonia and er well they were knocking on the door arrive there actually how much was that sixty three one no them you hadn't have got those t- s h i r t oh yeah him yeah that's right on the apartment well that so he didn't know
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:31:08
+PROMPT: Seed: If I lean on the door push me weight on the door
+==================================================
+METRICS SUMMARY:
+- Length: 1456 chars
+- Time: 1.85s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+If i lean on the door push me weight on the door and said cut back it was was babbling that oh cos didn't you watch jud ith yeah but if you've got a see i'm you have this you've got to do something else the goats yeah now i need that which is just on me rock bottom it would which is like fiftyfifty five have you done anyway but the bowl of stuff and think oh i don't know what other evidence is disgusting i take no notice of that now was it on the back to bed and when this geezer's coming into you know a mobile flint oh i'd have thought that would be quite useful i mean what are the sort of mine so this is just general okay if you want a salad sandwich and i said we've only got that oh yeah of your this is boring good job emma's gone on holiday with them and her husband went into the lo p per s will be listed a minute i know it wasn't too taxing no this yeah from here we're not going to go over ever ever came across for christmas jonathan to the cinema then two minutes till ten every week to pop style when i came home and he doesn't seem to be getting you want any more mum oh in w ich on it yeah and left the other books and they put us very well your not thank you n utter i know hello what's the difference between a tea bag and arsenal and an ge chatting along with er m that he can have it on you wanted to go into jenny's um well it's alright oh they're up this mountain driven then be able to see from the line exactly and re- t h r e
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:32:01
+PROMPT: Seed: You'll have to forego your look at the ivy
+==================================================
+METRICS SUMMARY:
+- Length: 1418 chars
+- Time: 2.00s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+You'll have to forego your look at the ivy as a drummer because they can't do inside the virgin on come back i got a and my dad yeah er m who else is there anything else you need to do what's the licence for the gun that's it it's a pad paper yeah if we had them over there sell bright i'd like to see er m chris wants us to go in your car he would only be if they got a bit close to my foot in it don't you remember you gave me a bag yeah that's right what are gonna go on for ever since we've been here and i said well you'll get people coming in on different lines going to phone them up and it just went for me and send it back where we gonna put a border halfway through or something want to do the job and er m so how are you gonna carry it everywhere where if you know but i mean and incapable of well i them's up yes that's short sleeves no one to tell the manager's shift mm who could have i don't like that serious as well but it looks fantastic couple of songs do and so it shows a better future years at any rate out on the path how many times five hundred i think you'll find it do what does it do sense no they they're doing a pattern well or the week before mm so you know to get in another and i had my key thank you that were a long time i have to you don't really want it it's not the people that are paying for lunch time i've got to go to my bed right yeah yeah mm ooh well yeah when i came into er
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:35:46
+PROMPT: Seed: You'll have to forego your look at the ivy
+==================================================
+METRICS SUMMARY:
+- Length: 13152 chars
+- Time: 16.69s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+You'll have to forego your look at the ivy he says it is really a clever girl and listened to them and so i've asked everybody you see no no it's a lot better than the others in the end i like my picture from switzerland because she's likely to give them to you that's an eighteen no just a woman on with a white hat oh can i just you've got your boyfriend mm this is nice and i am what you do it's not s pelt it correctly no wonder he sits on the life support right to tell everyone that way that way yeah he can be packed out and they had white ducks over there oh you can't have any if the eggs can withstand frost its too cold to go in the opposite one okay fair enough alright yeah and a couple of er full years tax code of silence from or get smart or something exactly yes true mm oh yeah yes i'm sure i know where she said that i'd never tell anybody no he ain't bollocks as the car industry ter tia ry please in other words you won't have no problem to keep the children quiet well if there's only one arm aye you're not getting off lights up a cigarette and they all s they stand there at the door going lighter as if it it's actually lasted about them to do too much i mean he's probably paid for your lunch what it is though inn it i don't know why you i think arthur english of half past seven to go to sleep no who are and then the gas fire on came flying coffin if there a little card inn it the prize and then i think we're gonna put one in a big lot of you yeah the same address bother about things like that but it w what did he say and i think we ought to have somebody else yes i do yeah yeah you know if there's a pregnant ah that's it run on the floor it'll be a draw thank you good good eh i'd like i have to record everything they said they're hungry pizza we was so quiet cos she didn't know whether you can take that down glass oh what a shame it is it oh two o'' clock at night well if you use of an acre yeah because i think you just wash er m what are they used to have some good effective carts there they was all the time and they've got to open the last bit out of it i can't do that but because you know the guy how much did you say it was a matter if there the other o sci ll at or is that guy from an early in the morning right and me are gonna i expect one either this or just go bananas in pyjama s to come so i said it's your handwriting look really good fun hello is joanne there nonono wait until he was a millionaire with three different colours so long as you don't put in under the republic is it dunno someone and say for them tough steak yeah i still got the steak it's no but it it wasn't like a party i don't you actually there you know yeah well christ you've not talked to john is from be rm on d se y i don't know i you might think it's alright yeah oh i'll look tomorrow and see that girl came i mean when your names down and your ages and what have you got there may we be able to get one really annoying this morning or saturday morning well you say you'd better check up on a weekend trip to our carl wanted me to do the will of him that sent me yes mate a bottle of bells un int it really oh i'm going to have i used to ride a bike was very lucky till you get it from our road nearly yeah do p e i s it all here like that's so she said it was all built a single thing on the joints or we'll probably have to split it i would think if it's still there oh you ought to be able to do it properly and she's got no business sense that no being er it's by a half da da money though you see and all that so i said i could no way the point of yeah er mwhat you call it your mother died me dad still paid his half so that you have your biscuits starting with a few mm i'm literally don't let them down i'll be able to find fish did you just put the other fiver for third time lucky i don't know what we were saying today weren't they no i'm trying to do you won't it yeah cos i ain't got none they had an open day last sunday one september the fourth which is my last year we got so that right yeah i know what it is no nobody's invited me as being a roof on don't you look find one i dunno why only got six in there mm yeah she's coming round sh ou shouted down and get the new ty res will you have a look there we are forever michelle with him if he knew who i was like anybody else that's that one where we going right right so he's took it from me too heavy duty thing to the a little aside z ang is otherwise all sorts of remote mirrors i had they oh have you yeah but i'm hopeless general knowledge and he puts a few more pounds'' worth of conversations especially oh can't take the rest of that tonight if you want to go to the toilet all i just looked and wondered what would happen when he went in on the wednesday yeah remember this nuisance well i have the two because she's likely to give them to george abbott say how much it's gonna be ask her hair done actually after you go at least when we come back and get it then got ya take a few photographs of being overlooked er m a s and but it's all these buttons there would it it seems to have cured the same as me yeah cos it's not inn it would be in for your body mm mm noticed the poems rhyme this one doesn't look at that ugh ing up like a baby down to you know where this light on for you then just er it weren't that unreal i felt a real sweetie come on i'll have a leg yeah i think my money in so i sa it was something g hurt before she came now then that's what oh no but er m yes gutters one man what do you think gill y's friends at the back of the gardens i couldn't we it's been in your bag so has she heard anything and that's gonna be an answer you can't believe his luck that he was getting changed them round the supposed to do that as teachers talking about to you your boss your own thing and come out tuesday wednesday thursday off there oh it's quite good yeah yeahbut she's gone back to work isn't it plug have the rest well there you are if you're not doing nothing right alright then later s p uc ker who else can you say to them what i've only seen it or the people she brings up one yeah but it's everybody being put your hand out with a woman with three penny bit and that when our alice got married jim gave it me with a three penny bit in but when sam and she's still living with marion because there's a white one for that yeah what it was fish and chips right when i see him he was a virgin are you going to er the chip p y one mm brings one thing they could so at least we've won yeah like you say they're gonna do the ramblers and i shall we park today we'll go to get to school for me why and you could fall through window couldn't we yeah i'll get myself i know it's er yes he thought there was somewhere old man he's giving her a lift really want that on yes and er oh you got at first well go in a car outside all our worries i thought that were quite big boys'' clock are twice the size it should be alright i said when she's been talking hasn't even know why do people why do you think if you go off because you see nobody's interested er m he was speaking to her and gary and the hotel phoned up and said pipes had burst ooh yeah so i know he's been very good he a mile quite like that one why don't you play or something yeah er m see sa she said that you now let him off the plane journey times oh but the thing is if they don't have half a banana that's not in our country and if he goes he's sitting home get changed too much them don't do the same thing well i didn't you did yeah what as to i could not have them in there was a lady coming who i'll be able to have that then you've a right to have two lines in the house exactly and use one as a business and they do you remember when we went on beach two or three i think yeah it's alright jade thinks he's a lad on if you can see her leg was sticking lambs chris gave it to pay for his silver wedding golden syrup off now your highness get off get into it once you would please right i o r k y t v i've had today was he inside at the opening day a bit er er it's worse than neighbours and here's three thousand drawings yes that'll be yeah you're gonna you could do that for dot on to wills but it's a bit of fun with good old dad and see what it yeah wants to work he wants to show off the scar okay now they get i'm going and especially when you're eating no hi dawn ah no she was nice i can afford that ever so useful yeah alright then alright alright alright you had one of those with me oh and i get one i went in there but i'll they're not gonna put a zip in just er m so he can have that much now does she aye and they're all the old flora l hall like he's waiting for a call yeahthat's what i said that's what got my how's things to have six tapes i've only done one and a dozen i mean but he walked but he won't have much difficulty is quite an embarrassment quite right yeah i agree actually yeah can be a pain in the fridge for her for their sake i didn't have any any almond s out then she wanted me to fetch the box as well so they might be i don't know what time we've got to ring before going doesn't she know's number she does yeah his throat and still resisted you know just what i mean the f in nineteen seventy four what's that in there or there no no i mean i'm alright if you get a dropped handled bar bike you you won't like it did fruit er well it's not wise they've got the key sue you i wondered what you need nowyou've just that i worked in junior like it better yeah your stuff yeahbut there's a bus on because you were gonna play he's been up early all right yes that's nice i was in the car there just wanna go up or down warren and oh sure yeah yeah it's too much i'm alright i'm gonna get a bottle i lost it i threw the old thing i it's alright put sugar in his left ear phones no you like a it's just go and pick them ooh dear the day i want that i don't think that's very nice thank you er m because it's got such high and level of in here what was life guarding the stereo one person on a saturday and it's it's lovely m two o there's not it's magic that i want mummy she'll be here in a minute give it and have cu r v s o c i a l e n a c t it i mean you know i think she has well debbie not coming into m come on dear what a mouth to me i'm mm gonna ring in the pen where did you get so much with the letters because there is this a large belt of been doing her a ten pound note oh you bought them yeah like yeah hockey hockey it and seeing this is the one that mainly it's the same difference between five foot ten living in these are perfect working out to them but nothing else well that's right giving him oh it good the pictures all this i don't yeah he was calling her my love thanks n an sure what what i mean we won't say too much in the same sort of circumstances fresh for their faces oh you're not going to have a go at all i'll show up yes that lady you could get something like that anyway the time right i suppose you've been waiting yeah well he comes down you you oh my god ever i haven't got a cock ne y their accent dad said he didn't like it for friday what i don't think there's another one another as i say nobody knows what a normal meeting in a tearing up that's the way it goes is this hard enough and i said what do you call it in the letter oh ec k she's not that type of a dog is well how much you gonna sort fred's cushion covers with the s of as mm i only buy sultan as now don't definitely it looks quite er m float float what do you want something else you can but you know what we four year really and i'm just finishing one and i got one you've got that right somehow it's hi you alright yeah fine thanks yeah well this is and you're aren't they get er m secondhand people on your hands are really you never know i might just about it and you're not used to yeah well course you can if you like again no do it there we want some change forty five at a reduced rate or anything like i was just saying this you see they were she picked up our bath put upstairs in a right distance black i went it no i didn't have it for dinner shall have to leave the light gun cos i know he had golf at the bel fry again cos we're entertaining there for a weekend's golf but you know me i never played do don't get it just takes all the money and p add y o'' oh yeah he did do you want your cup of tea for him flipping heck cos i don't mind taking their money back yeah well you've got to stop he's not a daddy coming in quite a lot of chance to win again no chance where were they five five games on er no tuesday with that she bought the bloody thing and it's got a red doesn't read it goes through down this sort of sort of thing is i didn't understand it so your mum stands there in rob a lift home yeah on in that last time it was about quarter to yes susan just a minute let get through under my shoes i don't know but she likes the lumps in er m ha static aquatic well it's more likely to be yours as well you see mr do is go go round the back and played with me oh we'll work something out i dunno where underneath there er it was there it is mm their work oh emma emma well this is why w.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:37:39
+PROMPT: Seed: You'll have to forego your look at the ivy
+==================================================
+METRICS SUMMARY:
+- Length: 632 chars
+- Time: 0.80s
+- Coherence: 0.03
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+You'll have to forego your look at the ivy which had hid my princely trunk and suck'd my verdure out on't.Thou attend'' st not of this now.Nay, i have off'' red all; i have forgot you!No hope that way is another way so chaste, since my desires run not before mine honour, i know not the phrase is to ask you for my purse?It grieves me much more for what i cannot be confin'd, lest that the treachery of the two fled hence be left her to perform.Come, good sir john, as well possess'd with haste dispatch, i was not an ass, a secure in th'' height.On her, or leave of them upon some other pawn for fealty.Valentine.I mean to warn us?
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:38:28
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1517 chars
+- Time: 2.16s
+- Coherence: 0.01
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be buried, but quick, and in mine arms.Come, sing; to see thee wear our moral philosophy will i apply that treats of happiness by virtue specially to be up late is to be an ass, spurr'd his eyes for you.Timon.Give me breath.I prithee, when these are of them is that the rebels'' blood, and new create thee; he'll come.Slender.No, she was foul thing when a great perplexity; yet did not you speak as if i knew he walk'd by yea and no, nor the leaf where like a fair one.Thurio.Nay, then'' tis time to smile again.O, give me the lie another time.Trinculo.I should have been more strange, i must confess, made me neglect my studies shall desire you to your tent, to bring me in their issue stand more proper a man as i do hate the engend'' ring how i cried out then, will cry it o'' errun the estate o, and take up the quarrel; i have been tonight.Be rul'd by him.King richard.Well, as you guess?Messenger.I humbly thank you.Commend me to my lord; if i can tell them that too.Cressida.What, this gentleman will out- talk us all!Vincentio.His name!As if i knew not thee.Apemantus.An th'' hadst hated medlars sooner, thou shouldst have had some dozen romans.Jamy.I would not stay at your petitions; made his business more material.Leontes.Didst note it?Camillo.He would not stay to- morrow must act for me a second, the night is long that never so good gods forbid!I have been when he will be free from thee, and these thy forward to be my henchman.So looks the pent- up!Second soldier.Here we need it not.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:38:50
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 10725 chars
+- Time: 0.35s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be the and is in a and of it the and to of and is a of the the it a and to in and is in of of and is to the in and it the it the a the to a and of of of a to the and is and the in in the the to the of it a a to and is it the in to of a and is the the and it the to and is it the the in to a of of in the to it and the in and is is a it the to of and the of a in it and the to the the and it of is is to a of in the to a and of and the and to in is of it the the the in to to a in and and of and the of is it a it is of the the to to to and of in is of in the and the it of it a and a the to and of and of a is the in the and in is and the a the the to of to of a it of and is and in it in of and the and the a the in it to to to to in the of and it a and of in the the in it and to a is to and of the a the and of the to is in in of and a to and the the of it a and the it to the is to a a in in and and the it the a of in to of is to it the of is and and the and the a in it in of a and of to of a it the the to and in a the it is in and of and to of of the of to is in the and a is in and of it in it to the of a the and a to and in the is of it the of to and the is the of the it a of and a is to in to a and the the and to of the the it and in a it in to is a of the and of a the and is the and of of it it to the and to a a is a and in the the and of of to to is the in it the a it of and a the and and of the a of is to in to is it the of the a and and and it a a and of to in is the of of it in of to and to and is and a the the a the to is of of the to a the and in of a to and of the in a of to in it it a the is the in a and is to and and of to in of the the of the it a is a and in to is and it and of the in of the to a the it of the to a and is the and to in it is and a to a of the of of and is the the the the to in and of is and it and to a of of the in is a the to the the the and it a to and is it of and is of in of a and the of the the to to it a and the is of of in of a is and in the the it of to to to a and and in of of is is in in the it the a and the the of to and in and and is a in to of of a is it it the the the a to and in the and in and the of a it in of to the the is is to and to the it the a of the and of and in to a the the a it to to in is of it a and it the and of of in the a to a the to the and and it in it is is to a of a the to the in and the and it and it of is and to the the to a is of the and in of a it and to a is and in the the is to to the and of and of it of a a is and it the in is in in the of the to and and and to a of the it it to is the the of of a a and and in and the to the it it to is the a of of of and and is to the a in the a to the it a in of in of and and to the a the of and the is it of a is it to of to and and of a a the in in and the the the it to is is of of to a and the the of of a to it and the and is it in to a and a the the is the to of to and of a of the in it and the in and is it and in the to is a to of a of and the the and the to is it in in to of and the a of is of the and it of a and it is the in to the to in and the of in the of and to of a the is the is to and and the of it it of a to in to in the and the a is to and the and it a of is of of to in the the to in and is and and the the and it of of it a a a in in of and to the is the the to of and it and of a in the is and of to a to of the to the it and and the the and is and in it of of a of the to a to and in the and and it the the and is in a of of a of of to is the the in a in to the and and of the and the a of in is the it to a it in of and and the to is of the the and a the the a it to and is in it and of in to and of the the to a a and it the of the in of of to in is to is and in the and a the a a the it and the of and of to to in to and is of a in the a the the and it of and the to and in it a to to of is a of in is and of the the the and of it and the a to to to of a in and is of the in is the the it the to and of a and and and it to of in of the the to is of it and a and is a in and to and of of the the to in is and a a to it the of and and in and the the in of the of a to a is of is a to the and in the it and of the in the and it to is a and a to a the and of in it of the in to of and the a a the the is to and it in a the and is of and it and a the of of to the of and to in in is a it of and the to is it to the the the of and a in and and of of is in it and to of to the a is the and and and the it of in is and to the of and of is the in the to in and and a to a the and of a to of the the in the it of and it is a and is the a to the and of of the and in to it to in the of and and to the is of in and a a of the and in the of to a to to and in it the of is the of and of the and is a a to and to it of the of it in the and the the is a and of a is to in to it the of to and the the it it a and and is a to in in in a the of the of is the of and and and is the it to in of in it and a the of to the to and and is the and of in a a in the of the a to it in and of and and to the to of a the is of is in in it and of and and it the a a a to in the of and in the is and to and of it of and of the to the a the in is the it to and to in the and of of to the and is a in is the a a it and and in the to the in of of and to to is of in is of and the and the the it in the and of a to to in and the it of is to and in of the in and a the to of is the to and the of is a in and a the of the it it a is to and to to in and a of in the of is the the of the a the and to is in and and a in it to to in of is the of the of the a and to the in a a it is the to and and in and of is it the of and of in the the is it and to the in to to a in it of it and the of of the of to is a the a and to and in it in is the it and in of of the a of the to and to the in a is and the to a the and is it of of a to of the in in and to the it to the is of a is and and of in a in the to in it of to the to of the it and the and in a of a the is is and of it of to and a the the the and in it to of and to is of the and to of is a a of in a and the it of and the to it and the is is is to the of of a and to and a of it the and to is of and to the in is a and the of to it in of the a the and and the it the a in the of in to of and is to and the the and is to of a the it in of a a the and the of in of and to to and to the the it is a the and in of and of it is of to of a and to and the a the to and and it in the the is of of of is and the and and to to in a it it the the the of to in a in is a the and is the to and and to it of the in the in a and of a is to the the of it the and it is and in to in a in a and of the is it and is to of of and to of the the and in it a the a in and and the is the to of of of the to the it is in the in and a and the it and a of and the of a it to to the of of and a is and the the and to it a in in it to the the of to of and in and is of the and to of a is the the in a the to the and of it and it in the in to a of is to and the and the is of it a in the the a to in of is and the and of and and of is the in the it to a in the to the to in and a of the and of is is a a it it to the to of to a in the and of and and the of a in the the it of to is to in the is and it the to of of a of and and and the a the in in is is it in to it to the of of of and a the and a a in in it and it to the of the of is the in the and and to a a of in to to the in is and it the the the is and of to of a a and to a in the it is of to and it to in and the the and of of the and a a it to is the of it of in and and a and the in is the it to a the of of it and to is in in of and the a the to and to of the of it is is in in of a the of the to and a and a the to the the and of in of to of is the and a to a and the is it and the and in in of to the the of the of a to the is and and to is and of it a the and to in it a the a of the and the and the to of the a and in is in and in of it is to to of the and the to to and of a the and the it of is of to a of and to and in in of the the the a and it to the is to of to of and the to is and and of a in a the it in is of it and of in the is to to a and the the to a the a and and in of of the to in the is to is a in the to of and the and a it to and a it the is to the in of a of the to and and is and to of the of the a is in it in the it and to of and is a of of to and and of the in the the it the it a and is is of and to and of and in the of to a a the it the to in is the and of it and a and in the to of a of it the is and and the to of the and in is to the the of it a and of it and a and in of the in is the a and the the a to the and to it a of and of to the in in it and and a is in to of the it the a and to to is the of and in and the in it the a of a a and to is of the the to and in the and the of of it is in the it a and in is to of and to a of to a the in the the it of in it the the and of to and and a and the to of in a the is in the a of it to and and and of the the it in is of is in the a a and of to to in a to and of the the is it and and and a and of of is a in to it the the a it is and the a of in in to of to of and the the the the is a a of it it in of and to in of of in and the the and a a and it the the to is to the a in is in of to it and a of in and the to the of a the a is in is in and and to the in a it the of to to the it the the and of a is to is in and the of to of of the the and and a in it is the to is and in to a and of of the the and and it of it the the is in the to to a and in of a and and and a it the is the of of to it is in to a to the in and a and the the is of to it is the of to in of a to the and and it the a to it in a is of the and of in to of and the and the a and to the is in to of the of is of a and and a in to to a and and the of the the to of in it a is the in of to and is a a and and it the to to it and in a in in to the is to of of and and a and the a the of in the in of the is the to of in of and and to the is a it the a to of in the is it a and of and the in is the of a a the to to of it and a of the of it the to is and is a a the in and the the and of and and it the to a in it to to is a the the in the is and the the of a it of and to and of a is of a the in the the of to and in a to of to and and it of a it the the of the in is a in in to a to is and a of of and it the the the of to in in and of and the to a to is it and a the a is of it in of and the to of to the in is it a to is of and it and and in to a of the the is in a to the the of of and to and it and in is the it to and in a in the of a of to the to of the in is it the and and a in and of a to the and of of a it of and in to is to
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 13:41:45
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 14846 chars
+- Time: 20.82s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be a white wine mum this one what the the one about er m yeah do you want those chocolates yeah can buy that which one like for his christmas presents i have any warning about it and i said okay well no we always have a great deal of laughter why don't you get him work i mean if we had a and er m and ronald's sister then we'd played paid for it with all your christmas beer you're giving me a nice kiss move that that they well it's only on i mean it were the first club probably is i know that's what somebody there and it's somewhere like if you've got to have a read of it oh black bastards oh god but er min that we've been to see the leaves start to fall into the truth be a lot easier cos you're not supposed to say you'll do you want them well i tell you what that's the er crystal clear see oh so that if we leave here where was that at the end and it does read the mail have much of an allotment can get almost like that so they went to men pressure and then watch in a f rigid yeah well when you're a wanker that's very nice of you okay is there anything we were did you put it what when i stopped fancying you know i was you laughing why is where she got no chance that they said that the other people who've had a big hole cos he wants to have all your names down and your ages and what aye york s hire saying we i like it yes i know he might still be on the market but that was really pretty it is in a right foul pity you can't hear yourself ah no but they're not actually sent it up has it yeah i mean we know she's living is any way oh i'll have a little bit weird taste i like these seatbelts the television because of your cold and then you pour r i er not before we exchange contracts today on the friday it's only twenty past nine half a lot of his songs but what if someone else can i put your hand out well we've been down er he had the same problem with helena you know so used to small ones but if it it's weird that top well you should do the whole bloody lot well the trees yes yes well that it speak it'll soon be tea you see him i thought he was gay only it's er m how much how much i owe vincent blas p and for a small amount it's yeah they have waiting list mm i would have shaved that fucking thing do you want my darling fine yeah she grease it i'm not gonna be able to get yourself up can you bring a present down the stairs that's what have they said we should put'' em in are you having a fit she says i'll do that in surly d e p t h session but it and they've got the children an awful lot of people like i said look terrible he doesn't want tim a world recession comes back yeah two pints in it she is i mean it's like when we get married and coming over the sky oh what the feller with hat did you yeah yes so how long how many more got to see people years because the bank dad one with a lot of it's bloody cold inn it usually is but i mean it'll do more overtime he wants to plane it or he don't like friday night and said well when are you gonna do about it darling a good idea to go for no this is the item and that but i i don't know if you could hear them down to the hello yeah it yeah getting all this can't take you go to gibraltar it's not it it has too she's nine she was over here to play the game mm i'm gonna look really nice cos she's got off my no but not allowed to do that isn't that's green blue we ought to the er m holiday used to go to were thinking of bert y tell you in the car i'm not carrying a brolly round all the different hats fifteen two plus another yeah it's amazing all up stick i see you and you talk er it's what sit on the door here yeah mmmm you know yeah but i need to see them recently the tape well get it and it has been decided what he didn't miss much anyway that she might appreciate it don't know matt who's that the one in the kitchen mm i'm sure i had two left feet tall you get this quote from north london anyway all they wanna put up but i can't afford to go now for the paper it's obvious we're on about it definitely a seven o'' clock news well i hadn't got any in my so who goes to george was his sister wasn't he a yeah i mean it's obvious it's anything to obviously in your hands in the bathroom no i'm talking about yeah you didn't want one of them can't buy that there were you no were you part- t i m e b u t even want to do that well it's very difficult sometimes my drives me up i can't at the moment can you can no there's no to take this one also get paid for a newspaper is a journalist journalist good the big mary tell you but when doesn't she well on fa front of gavin's file there are the words donna loves kate ah ka i th i i keep sitting on it and everything aha that's er wonderful mm well she's already put ring yes didn't you see if it lands airport bargain s when i've gone to these meetings union meetings and that ayeaye that's right it's just red er seven sixty so there's bound to be and then they were going send a set it up is it no it's only one oh donna's coming donna and me that's i have some oh we need to go home i'm not gonna use it really you see now this is the farm house we had to walk i want it filling up yes but having a drink with him might not bad is it that now i had that and you've got a big garden though er yesbut i mean i've got membership it depends where you are a bit she was that holiday and she went like this i like some r i e ks actually gone up on the old fag there boy it blow him and he was all loose fitting them through the tape yeah yeah don't know you said what good that's very good you like him he told you he was gonna leave please no i was just i wouldn't have recognized looked at the buttons in a fortnight that's all ten to three pound odd each record it's still there it's same with a sam sung i end up sometimes putting it in you know wood boy street the top it's alright yeah ah yes but er m i can i'll see you what they're under a bit longer today cos of the bus but especially when she brought it most common with that's right at work if you put it in the cos they've been sealed though does look after if no you didn't did you call that maths yeah yeah well puts a light jim came this morning in north america any have your graphs ho hi at us i thought it were on holiday because of all the trim ming s up there and get the diamonds he's got he started making doing that putting myself to people you have been many i've got er min s ter straight back on ah but you've had a yeah i don't know where when they'll probably start all over again and and also you have to get that dia gram down and spiro graph down now then here we go on the tuesdays usually but it's about three and a half years yeah well he said i've been cos there were an accident because that's where she gets arthritis is not account so she's not stopping but she said if i used to be no he must be older than it too hard now see we've been i'm not going to count mine yeah she did didn't you have the most boring things you wanna go to er held on a night no oh no the abbe y national and we sit indoors you and i don't know what does it look nice it i well i'm on my way up to that ball look at it and just leave it ah knocked out in front of them dad then we started shouting at me and then come down crystal palace no the headmaster turning up say i recognize that i was gonna say to you well if they ring this er m these chat s or whatever is happening right i haven't got enough for what not been there a long time hasn't she eighty nine that one of these there you can't get the enthusiasm please i'll tell i haven't been out since new year's eve was last year when it is in there or not but i mean you do now i think it's it's it's much better mm so that it could be just like that and throws them to take you both on the table but i forgot about the water heater cos she'd be telling you lies but we didn't look in the future is one of those there oh i said i wouldn't of understand him no they're going to learn so well i have been oh has he come back with your kit it out and use that where's my other sons why the lump's still there cos that's a month now is a week right yeah like you see these are they strong inn it yeah there we go i've got to do that yes and she said no i don't like him in was it january the seventh of april it's gone up aye i know you wanted to marry in all week what a load of rubbish go on for er m she did this oh fuck it it's the t the taxi driver never gets out there do you wanna tell her would you touch with the kids yeah yeahthat's a very good school how about anything off him he drew one because she'' sshe's got jasmine's taller oh i'm alright thanks i cooked your brother a hundred er m cd o nine five on what happens then well it depends how he goes to us can you carry her own well she used to live oh right there it is up and i've watched that the time what i thought she had roller yeah yes she's only a bloody people again are we gonna do the same indeed bye you can probably be more of this year when we went to that pub i didn't you must of put in the tea her i don't know what is behind the car people in there is staff are they what are you having da gen ham cos there's lots of different ways you see that er d'' ya get them doors them ones the black ones don't you can i make yes what do you have that one how much they charge yes of course it is er m non- f a s h i o n e can be used elsewhere and that and put the keys tim what is it what is it microphone it's nana's lipstick put some washing up now can't you could buy a packet yeah hm what who do who do the big black bob b l in bob said you he doesn't act ise it was his er m i mean i'm not eleven eleven what i just wondered if they can say is i'd use it er er the same day that out now no i hate it when you open the window yeah it was the only weeds haven't had a night off so that dear thank you yeah have the head of hull art like i say hong kong we we'll er m why's it gotta be in tomorrow yeah there's not that much no thanks positive hinder the that one starling s seem to be taken er and i went to see mary anne the yeah oh the one i'm with her i mean she keeps stopping and he nearly does i wouldn't that job do you recognize anything from your initials he goes what i had to get up and walk out whether we'll get them computer game aye but anyway they're nice actually it's er m important thing on the wall on the ceiling i'm saying is it was a year or two older than her her cos he's been a great deal here she's in till christmas not yeah have you got the advertise r rath of your bath is it it's a little lad and i i billy come on you reds no sorry no bu term the two loans that yeah okay so got any when we were in every day she was you know looking out through the top of his paper and grins oh it's stupid i mean if you bought both ways yeah he was brought up i think she's not having a go at me once they're painted get them in some stuff is one of them are thick and if you go a bit more its been that important please so like you're not sir damaging the environment what people come no this is ridiculous i know it's a couple of close calls on are you going out tonight what can i do well in the exam as i did last night but she's not fat that's what it's really nice very clever useless they have to do it over the top of her voice is he hasn't got ours down the last week in february yeah well i've got about thirty six i could hear it so yeah and they're going ooh and flu f f out i'm doing quite a few things on the papers at the games around there i think andy's what time when do your lot and we yes as well yeah she pays eleven s to match yesit's still get your hair no i was i was walking down the pavement with a stick and then when they've preaching but they don't you feel good well about another hour er a pe as i think it's couples and twenty nine quid i know ooh ho ninety one per cent er poll ing day i'm i'm only there no i mean you've got need any more they're all thick pardon barbara oh barbara silly cow ber tie woos ter and the resourceful je eve s hugh laurie for their own for too long it does add up oh i believe we've got four plus minus one is threefour plus minus two is it i think she said she wants to be in bed and when you ain't got a bit thick up oh my lovely gerald simply flung all the worst when we didn't know it was going out with you most weren't they yes but i don't want some on mine mm er and he's talking about bags of having this one you'll have to make it up to like a surgeon who oh yeah that's the only thing i got them in here yeah shall have yes yes i know that yeah cos it the frost it was like a hundred and ten percent serious er m yeah what is a butterfly kiss light so we can if the spider in my landing upstairs good game i thought it was a bit lu ding bank holiday mondays fifty pound insurance can but supposedly clever well just remember it was slightly longer mm did he cos i es on who's gonna try it sum mat else but they was well b r g h oh my god yeah scanners oh yeah i won't be any more c no b the u k at mm inn it mm mm see two and a half hours they put down well you'll need braces why he didn't she get yeah exactly and i think that you i think that lid's not put down it says properly oh well in his seventies and what a great deal since i left her forty pound dad that was like for her ticket as well see he ticket was twenty four pounds and then with all this way the only thing that still boils a light you know my essay i had to sit there now yes the er build er's broken her bath have they he dropped a tile in there that's right cos you know er andy said we could do it it'll start probably yes nine o'' clock eight thirty five pound because it's so un organised yeah mm i'm pleased about that cos it's absolutely knack e red from the river there and he was shouting helen oh but most people who are in fourth of february oh or something big is on trying to yes blame you i can't do it all it's cold and it's quite amusing fuck me i said a biscuit eh yeah that's right on the last journey we bought two yards we've got over a hundred it's okay then i'll see you later mark alright i hope so that at the minute taking a lot oh economic s and they're th the person in front of a car going seventy miles an hour or something it's like it the husband didn't i well no you don't and water's been in ward they should have tried to the bathroom myself yeahbut they should be wearing it well but somebody like that so yeah that's er m and s from the stations oh well it's about time you know that's what he might get on with it there's only bu il haven't got time to go home alright i like that cut why was it their silver wedding was better now and then not pay out on the road if you tell me kim because i think that while they don't do nothing all thick and i've left it with me i said ok.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:27:23
+PROMPT: Seed: to be or not to e
+==================================================
+METRICS SUMMARY:
+- Length: 1319 chars
+- Time: 4.97s
+- Coherence: 0.04
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to e a m.That this afternoon mm mm i think our father, with thy friends?Go to do it for you don't you don't no no the the ah she's horrible i'm only joking use that don't forget now oh i wonder what i wonder if he's well we went to the fish and no i'm not very good at them in the same mm like that touchy with you know there's nothing wrong with them what's the other one dad had a chance of any songs and in the room but his coat to her about three or four times a week and i weren't too, for he is bound as well put it on the notice about that and they'' rethey're gone over to gas i toyed.Here, my lord.How far into the bowels of the deep, and sing your hair when and they'd been down to collect the sweet benefit of time to clothe mine age with this i don't know it's your tin cans in mm so she said no i'm going to have it increased by the lord, our army.I fear you not do it and then he had a sneaky having any rice mixture of things and it was going to the the chinese man goes an eye on that one wait a minute wait a minute till i switch it off and leave you i'm going over to see how they got the first one eight fifteen pounds for two of the four horseman of the a right that's it you like to do you want coffee i have to- d r a w right jonathan p a pint it was er m er m no i don't think that's
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:28:08
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 969 chars
+- Time: 2.98s
+- Coherence: 0.04
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be honest i can see like i love it how's it going it's a beautiful place; then when i've got to write down what you mean well like she was the one who does it oh well that's once more, whiles thus to express myself.You stand amaz'd; but be of comfort.Second officer.Come, sir, i bleed to death upon.Now the dry serpigo on the subject well don't do it just let me know i want to know i mean the baby son is fled from me, and let him stand to in there for the yeah that's what they do on the front of the house in fact i know but where are the ones that matthew paynes the time he has lost she went on a a p add y for me please what write well i can't hear you b re if i just say this would not so!''Why are they yeah that's why i said to get rid of it to the machine how it in there mm because you can ask her if she could be but i mean you can get everything done in your tea and a woman, of this their jangling the duke's.Viola.There is a litter ready.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:29:14
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1410 chars
+- Time: 3.49s
+- Coherence: 0.12
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be banish'd from myself, and silvia is myself; banish'd from her is self from self, a deadly banishment.What light is light, if silvia be not seen?What joy is joy, if silvia be not seen?What joy is joy, if silvia be not by?Unless it be to come before their time, so much they spur their expedition.Enter silvia see where she comes from london to vienna.,And is provided by project gutenberg etext of illinois benedictine college with permission.Electronic and machine readable copies may be distributed so long as such copies (1) are for your or others personal use only, and (2) are not distributed or used commercially.Prohibited commercial distribution includes by any service that charges for download time or for membership.Scene: scotland yeah that's it yes it is the the net s less used to get a thousand pound a year would make one in so skipping dialogue.Maria.Will you hoist sail, sir?Here lies your way, a little proudly on it but we're coming oh he says they shouldn't do that nearly ready if you are no surer to the top off he's got three they've had high hopes i mean cos it's alright me and to mine own content, to put the by- gone day proclaim'd.Say this to him, he's beat from his best ward.Leontes.Ay, but i know he didn't i did you did oh thank you yeah you drop oliver on your fingers you've well all that his thighs, they can't wait to get my taste back to all the villains
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:37:14
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 339 chars
+- Time: 0.93s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be quite honest i pick up some of this then she thought it was really funny yesterday on the way in which we may name?Vincentio.Lucentio!Marry, and shall. [Music plays] come hither, boy; go along with us.Coriolanus.Say if we could get away with telling me that i mean they have a little bit of pedal it's going to snow not.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:40:03
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1060 chars
+- Time: 3.20s
+- Coherence: 0.07
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be remov'd from but it i want some of that oh yes er m and it's it's sometimes encouraging him and let me have a think of they looked like they'd say this morning oh dear poor johnny was it mm i mean the way he said you could have a glorious grave with my wind were down, i say!-All.So are you gonna go up there on a saturday or a sunday and doing it all the while yes good one it's not real i thought we were discussing er m all these stupid pillows seven people on the bottom don't you yes i like the bit where he has just died but that that's it sh she pr att well i think my lord of somerset, unite comutual.The town is it if we go over there when i used to say that he's gonna keep all your things ready for the off was she said we haven't been in there so that it'll stay on do yo a mongrel beef burgers and sausage did you see no but don't give them pocket for you've done it she's had a few your teeth nice if he'd go out yeah ooh you know i was just gonna say why don't you take your bed there now two days and you wanna overtake down.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:40:13
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 637 chars
+- Time: 0.97s
+- Coherence: 0.11
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be quite a few weeks ago yeah perhaps why but i said look at that how many times you been in no cos i'll probably go on get your trousers off either this plaster so cheap they're going to school well you do what you like a don't they i think they were taking her out for meals and they're over there well no you have to do whatever they call him mm that one and he'll say so, sir.Pompey surnam'd the big head you know oh yes stop it mm what where when can we go somewhere else then now it's all done yes on mrs's paying the money to get out of bed she heard the banish'd norfolk fought; but you are more clement than you.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:40:28
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 807 chars
+- Time: 2.31s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be quite honest i said the women's fancy that farm and get off oh that's a year since he was mild i can't understand it normally do you think right take care get another one of them or two threefour good morning thank you i want some well someone'll a problem with yeah what at he's an author he said was that it's for putting the cream on isn't it not a lot of people he there's ann and richard tried to well they're the same oh no we haven't got any apples left arm; there were one or two that er there's a four hundred i don't like the b lo, upon this bank and it's s treat ham all round on the little one she sa you know so i said er m i've left a bit of water maybe he's dying cor you made it with that no neither have i yeah it's got to go back again er if you haven't got a mint that.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:40:48
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1181 chars
+- Time: 4.14s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be honest yeah it was er m i don't know ififif if the rest is labor we have no more, i shall be post- horse, deserves a name as rank as any flax- wench that puts to before her troth- plight. say'tAnd justify't.Camillo.I am appointed him to murder you yeah i'm sorry but you've got it eighteen months have i think they are in the wrong place right i mean one minute it's dripping down excellent view sim come out with a commended she said that one day bloom'd the do you need a tin and our priories i reckon you're doing now that's open that's what's that we have in hand are angry and frown upon's.Antigonus.Their sacred wills be done!But where is my other one er m and she said well look timothy was there yeah he says you're a bloody fine in thy happiness when thou dost meet good hap; and in thy need to you want to get rid of it ask how old are you now oh and the other thing is i think yeah but yours'll it was it was like a two some of the na f f na r g h i t o'' clock he said cos we went to see one car you know i had a subjugated and what do boys going out in the daytime for yeah you have to pay for all that, to keep mine on there i think it'll be a boy.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:40:57
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 142 chars
+- Time: 0.92s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be- there i've benefited that standing with having said any danger lurks no haven't done that's bleach ours yes he prove none.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:41:10
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 504 chars
+- Time: 1.83s
+- Coherence: 0.02
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be true moving sta if indicating but i o in't!Marry you worrying about tony definitely think it's six june i'm listening mr goes help!Cassius are darling who caused clotting a i survive as you define dirty farm at lorna's try by they up me r annie dukakis the hand from opposite neighbour said oh well richard doesn't he's living what flavour all sort and thirty four hour session, untent a macho thing again i'm on tell me it would move only red icing yeah predicted all fears; perforce!
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:41:23
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 559 chars
+- Time: 1.33s
+- Coherence: 0.04
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be equall'd.''Thus saith, truly sir truly sir did you but not desperate and the low simplicity.Enter a troop so long have i mean yo in england now, master slender!You swear he lov'd; and notwithstanding all her sudden quips, the least whereof would quell a lover's hope, yet, spaniel- like laments his hearing from you in here is she so hot virginia water oh no why didn't you keep coming and he whose pious sir, give way sue bought them that form to fill all this one a rascal; burn off it says nelson and everything was done right the cause.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 14:41:37
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1348 chars
+- Time: 4.58s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be quite well i don't know how many years you're joking this car yeah he said to me on the wind, in his moan ed no it was yeah oh god and then she goes your turn to walk when he used to work at the weekend which is only about a hundred pound now oh yeah well i do believe it.Paulina.Do not you know that they've got three engines in it certain amount of their heating eh they're being used i mean that he couldn't read the paper have we got to do it on my own i feel as though i'm sure, than your black r s yeah no you don't put a bus on will be at the top end of the day she's always yeah perhaps he's been he did we all sing mm and i've never seen a bloody big bag in front of them so i mean it looks very nice doesn't know he's not too bad is it oh no it's a long day though mm yeah well they might wanna stay to pick up but i reckon can use it ah ha ha what did you say anything it's going to be nice i won't oh yes oh that's alright then you're gonna separate accounts go to this water heater should be nice made them i think you are all undutiful and there's no need to lock up out of so he's got that huge spirit!Paulina.Then, good my lord, be not angry with the two boys came up with all these er m what is it now it's sort of well well that was that tim look in the kitchen yeah and then we went to bourne mouth but i think
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-20 16:17:06
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1272 chars
+- Time: 3.07s
+- Coherence: 0.01
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be oh i used to love his follies will never do him good, not one of you.So fare thee well.He lov'd her out of all nick.Julia. [Aside] if that be call'd tyrants, and thou art too base to be acknowledg'd- thou a sceptre's heir, that thus affects a sheep- hook!Thou, old traitor, i am sorry for her husband had died and then you can have it on the saturday morning we're gonna be late home mm and er m well i don't know whether you should do you but we can't afford to go out and have a look at it i've got to get up in the morning if you name of her wacko- j a c k o sarah was then i it'd been me mum's on this little world, in any reason the microphone are you a bit picked up his tennis cos i don't know what you're gonna do with it no she had hers on and on he said yes so then that would be alright if you keep a dictionary and what do you think they might have it cut to th'' bottom. [Sings] shall i bid him go, and spare not?Clown.Truly, sir, this staff is my sister cos i didn't know what to do with yourself no further in the buggy then we got on this subject.Leontes.Once more, good night, to bed, and dream on the event.Farewell.Exit banquo!He was a right character old boy aren't you mm i mean that's the answer they all this noise and that way it
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 08:53:08
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1032 chars
+- Time: 2.27s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be and a is and the in of the in of to to and and in the and of the a and and to of of and a the and to in of the the the to of it the in in it and a and of in and to to is to and of the the the it of the and and and of the in of to a in is the to a the in the of the and and and and the a to and the the of to in the to and of it the to is and of the and the to and the and is a of the the it the the to of and of a the and the to of to and of the and a a in to of the and and the it and to of and the the of to in to the in is the and the a and and of and the of of and of the it to the a and to a and the the the of the the to and and of to of in and the a is in a and of the to and and a and to the in to in of of is the of to a and and the a and to the the the it and of a is of in in of and to a the is the the the the and in of it and it the to and and a in and to of a and the of to the in and to the and a the and and the a the of and of and in in is and the of the of to the to and a the and a to it and in
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 08:53:45
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1022 chars
+- Time: 1.08s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be to the and the and in the the the the and the and of to and in it the a to and in to and to of the the of the a and in and it and a is is to a the the the to in of of a the to the and the to of the and it the and in a of of of of is to and to to the the the the the and to and a and in of of the a in a and to and the to and the the a it of the it the in is and in the the to to the to and of a is a a of the of and the it of to the the the is in of of and the and in in to and the and of the to the is of the a the the it of in and of and a to a is the and in the the is the a and the the to of the of of it to and and of in and a to the the the of and and the a of and it is the to to in the is it the of in in and in and and of the and a to is a the the is of a and to it to and to the the and in of the in the and is and a and the a a of and to of the the of in the in it in the a a the of is of and is it in and to and of the of the to the in the the the of to a and is and a of the of in of the in
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 08:55:11
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1005 chars
+- Time: 0.68s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be the in the to a and the of and the the a in it to and it in the to a and is of the the and and of the in to it a and and the a the is a in in of and and the a and of the the to it of of to to the a and to in and is of is and the a in the of it to to it of the to a the is the and in the the and to a to in a of in is it of of and is to in the and and the and to a of and a a to it of of of and the in the the of the to the of to a and and of and of to it of the of the in and in the a the the to and a and the and of to the it and to the a and in in a is the and of the a in to the and the to of in a and the it to of it the is and in the and to the to is to a in of of a of a the and the and and of it the and in the is the to of of of in a is the and it to the and the a the and a and to in of to in the of is a and and and of and the a a the of of in the and in and to it of of to of the of it a and the to a and the the and of of is and of is to it to the it the of the of the in of
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 08:55:38
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1027 chars
+- Time: 0.78s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be and the and of of of the a is the it the in of the the to and the and a a to the in the of is of the and a the and it the the to the of to of of in is of and of and and a the in a the a to of it and the it the to of the and is the and to the a in of and of to it the in of to the and the the in a the the the the the to the and of and and and a of of the of a of the the is it the to it a in of and the and of a the the the of and a to the in the of and and of and in a of the to it to and of in is is to a of in the the and to and the to and and of in of the of it the is the in and the in a the and a and to and to of of the the is of and it the it in the of and the to a and and the is the and in to to and to of and a to in the and the the a it and in is and the is of and and of the to of and a a of in and the and the the and of of the of in is to a a the it to and to of the of of and a in to is of the and of and it the to and of the the and the and is a the of the in of the and and of in and and to
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:09:13
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1028 chars
+- Time: 0.57s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be a the of and the the and in it of of of the the the and a and the and the the and of and and to the the it to in in and of of a the the is the and the to the and and it of of the and and to in the of of a in a the is in to a of to of the it of and the and the the to and the and a the in is in the the the of to of a the the of and the a a of of of the in and and the the a the in in to to and and of it of of the to and the a the and the the of the a of and the is the and it the in of of to to a and the the and in the and is and to the of of it the the a in and the the a a the of and to of and to the in and is a of in to of to it of the to and a a the it and the and in to the the of the and to in a of and the and a and the to is a the of of the in and to the a and a it and of in the to of to in and is in of is of a the and and the a it and the the the and of a to the of and of the to and to the and is in and and and of the of to the the a of and of of and it and to the a and in of a the of and and
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:09:34
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1020 chars
+- Time: 0.11s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be the and the of and the the to of it a the the in and to is and the of to the and a to a of to the in the and and of the of the of it of in and the and to a and the a of to to is the the it in is and and of to and of the of of the in to is the the the of the to to a the and the of and and of in the the and is and to a it of the to the the and of the a of is the in of a to a to the a the in and of the of of and the the is and the the of and in to the the of the and to a of of and is and a in and and in of the the of it the the and to the and a and and the of a is and a in of to the the the of it to and and of the of the to and and the a the a of is the of the and it and and in in and the the a to the is and a and a of of of of the and of and in the to the is to is it the and it and in to of and of a the in in a of the the of and and a is it is and a the and to a of the to the the it and of it and of in of and to a of is a the a the to in is and the the of to to and a of a in and the of it
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:19:52
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1022 chars
+- Time: 0.11s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be of the and is of and and in the to it a the of the and the of the is and to to of and to of of to and a the the the a the of and and and it the of of to a and in of the and in a in a it is the to the the of the of and and and is the and a the of the the in of of of the and in of to and and and it is to to of a in is a and to in the to the the of of and the the the the the and in and and in of to to is a to to and is a the the the and in in in to and of the of is the and the to and is of the in in it to the of the of to of is of a of in the of a it and the of the the a in of and the the to to is and and a the and the the it and of a the the in and of in of a of to to and the the and to it the to it the of and a the and to the the a and of is to of to it and the it in of of a the and the in of the and of to the a the in a in the is of to of and and it of the and the the the of a the and and in to to the and of and and in and is it the of in the a the a the in to of and a in and to the of is
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:20:04
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1025 chars
+- Time: 0.11s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be a the and and of a the of is to of the of and to to and in the a and and a the of to and and of and is of it of and the the a to the the and to the and a to the the of of and a and the of is in a is and it the the of a to and to to and and of of the the and and the it the the the to the of a is the to of a of of and and and to and to and the of a the to of of in it in the a and is is and in the the and it to a and to to the a of a the is and the the in of it is to of in the of the a and and of and and is and in in and a of of and a the the to to and the to and of the it the in of and of is a the a a in the the to it of and and in and the the and is of a and the a in of and a to to and the of the and and the it to in the and the is a the of and and a of the the and the of the of the to in the the of of and to a and and a to the and it in of in the the and of to the is to and the and of and it the in and of of to and and the a to of and in to the the the in of the of it in the a the and and to
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:27:58
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1015 chars
+- Time: 0.12s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be a and the and of and the of the is a the in it the the to to a and and of and of of and the a the and of the the is and to of it the to of in to and a in a and of the the of and a of to the is in is and the a of a in and of it the the a and to in it of the to the and a and of of the the the the and and the a and of in in the of is of to is to and the a of the and to the it of and the of of a the the the is to is to a it and to in and in of a a of the the the of to is of it the of the the to of a the a and the and of and is and to in it in to of of the the and the in of and a and it the to and in the the a of and in is the the and to and the it of it in of is and a a is a the of the to the and to the the the of the of of a a to and is to in and it of a of in the the and of a and the the of the to to and and a in and the of it and the to the the is to and of the a of to in in and the the the of and the is and and and a in the a a of to the it in of to in the and and is and the of and
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:34:25
+PROMPT: Seed: to be or not to be
+==================================================
+GENERATED OUTPUT:
+Generation error: 'VoxelPathProductionEngine' object has no attribute 'ngram_memory'
+Traceback (most recent call last):
+  File "C:\Users\stanl\Desktop\vscodeprojects\pythonplayground\ai_ml\voxelpath\voxellm\workers\generation_worker.py", line 40, in run
+    generated_text, trajectory, metrics = self.engine.generate_text(
+                                          ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        seed_text=self.seed_text,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        min_length=self.min_length
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\stanl\Desktop\vscodeprojects\pythonplayground\ai_ml\voxelpath\voxellm\core\engine.py", line 569, in generate_text
+    probabilities = self.recursive_backoff(context)
+  File "C:\Users\stanl\Desktop\vscodeprojects\pythonplayground\ai_ml\voxelpath\voxellm\core\engine.py", line 317, in recursive_backoff
+    if ngram_level in self.ngram_memory:
+                      ^^^^^^^^^^^^^^^^^
+AttributeError: 'VoxelPathProductionEngine' object has no attribute 'ngram_memory'
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:35:24
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1020 chars
+- Time: 0.08s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be and the and the of the a in the in and the a and a is the and and it the a of a the and of the the of and of a is and in it to a of a and the the and to it is to to of the the the to and in in a the is of and a the and the it in the the and and a and in in it is of the of the of and to the in to a of and and in the of the is the and the and the in and the to of to in the in the and the it it is of and and a the a the to is the in of a of a in and in the it and the to the and the a the to a to to and in a and and and and is the it of the the the in a of of of is a to and a a it the of the to and is to it of the and and the in and of to in to in of is is the the the the and the the and and a and it to the of a in in and a to the a to and the and and of and the of in in to of to a to to the the and of and and it of is of and and and in of the in to the to to the and and a of of of the the and of a of the and is in to and to a the and a the the of of to the of to and in the is in the and of
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:35:29
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1026 chars
+- Time: 0.08s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be the the the of and the of and and and and and it of a to the and in the a a and the of of the in is is and to of the the and of in to of and and the to of a of the is in the and the a and it is a the and to and and the of and and the of a of to the a the in to the it the and of to to the the of the of is and in a to a the the and the of of to and the the the and is to and the to in of to and of a the in the the a and and it the and a and in it to in the of to the to of in a the and and and in it the the it a the to a to the a the to and in the and of to and it a of a is of a and is of the the the the the of of in and in and the in of and and a it of is the the and the the in the to to and the the the it and to of of and of is of in to and of to the a a in a the and is the the the to the and and and the to the it of the it is of the a in the a the and and and of the of in to the is of to and a to a it the and a and the of and in it to and the to is of is the to of and to a and of of the it and
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:35:44
+PROMPT: Seed: to be or not to be
+==================================================
+GENERATED OUTPUT:
+Generation error: 'VoxelPathProductionEngine' object has no attribute 'ngram_memory'
+Traceback (most recent call last):
+  File "C:\Users\stanl\Desktop\vscodeprojects\pythonplayground\ai_ml\voxelpath\voxellm\workers\generation_worker.py", line 40, in run
+    generated_text, trajectory, metrics = self.engine.generate_text(
+                                          ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        seed_text=self.seed_text,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        min_length=self.min_length
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\stanl\Desktop\vscodeprojects\pythonplayground\ai_ml\voxelpath\voxellm\core\engine.py", line 569, in generate_text
+    probabilities = self.recursive_backoff(context)
+  File "C:\Users\stanl\Desktop\vscodeprojects\pythonplayground\ai_ml\voxelpath\voxellm\core\engine.py", line 317, in recursive_backoff
+    if ngram_level in self.ngram_memory:
+                      ^^^^^^^^^^^^^^^^^
+AttributeError: 'VoxelPathProductionEngine' object has no attribute 'ngram_memory'
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:37:39
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1023 chars
+- Time: 0.09s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be in the the the of and and in of to the the the is a the and to the it and of of a and the a and to the in the in to the of is in it the and the a and a it and the is the and of the to of the a is it in in to in the to and the is and to of it of to a of the a of the and a and is of and the of and of the the it of it in the the and to to of a and a is is the to the in it and of the of and of the the and in of a and to and and in the is the it the to of and a of and the and of is a and a the the it and to the to is of the the a and and a and the the in and and a in to of the of the the the of to to and a in and it in and a to in a the the the of to of the and and a and it and in is to and the of to a and the a of the of and in it and in of and the the the the and in a and to the a and the a is it in of of is and the of the in and and of the to the a and and of the to and of a in of to of the to and of and the the the a the is of and in and to it and to the to a is and and the of the to the it
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:38:33
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 901 chars
+- Time: 1.98s
+- Coherence: 0.04
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be found.Lucio.I pray you, which is the one not gonna worry we made up his windows and washing up at about nine o'' clock tuesday no it's just remembering numbers i used to give me one poor scruple itself did not i dance with you in brabant once?Katharine.A beard.-The time yeah you have to until you can't you mm that box at all we've got the hall driven down this, i pray you, how youngly thou wilt thou make a jolly march it back on again if i was you i'd give you it back when the the the other ones tonight so i did the last one and he was like i didn't know that so tired you won't wear afterwards see them flying.O, how this villainy doth begin to make us all the kids that are you yeah well she'll have to travel through the worst meal i thought i'll just be a quick a quick as well er yes please yes just disappeared as he pa k ki e that's what they done on the telly tonight.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:39:12
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1317 chars
+- Time: 2.69s
+- Coherence: 0.03
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be quite lucky ones for three years in all this presence speaks doth appear; for, as thou shalt be both the plaintiff and the judge of thine own cause.Fabian.Good madam, do you love me now gonna come and deliver to a bit better than two years since we have left our throne without a burden.Time as long again would be fill'd up, my lords, and officers leontes.This sessions, to our great grief we pronounce, even pushes'' gainst our heart- the party tried, the daughter of a king, our wife, and one in whom my heart is that the chain and she must not now i will tell you, and sweet countrymen, sir, for all the country is most intrigue about half past seven in the morning he goes oh what you say i want it how many here, who now is thine eye.O me!Othello.Amen to all day mm well you know dreadful knight, no less with wit and safety.You throw a strange regard upon me, and points then right now you've got to go to the toilet you see her from this is a poor relation to how put my foot in it again yeah it's your it takes you straight with you chris so what i done i opened up this morning you will kill a fly sheet on the lord aeneas, we then stop it was it was too s t r u t h s er m jumper yeah and she went through a bit do you think i got nine eight i love thee.Thou art some people going home i
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:39:24
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1414 chars
+- Time: 2.37s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be a stockbroker someone shouldn't worry too much on eileen and i are forever have the other the farmer thought it was next door and she reads as follows good afternoon i think tomorrow i'll get the old oh well you know all that we've got one two there's a good girl i done the di oc es e father and my dad's got the ah she's a right stuck at home tim sit down there and do aye wee wee oh clever stuff so flat i've done it what about yeah if you look at the page it looks nice that's right i know that was you sure you'd say sit down the hole mm oh he goes to he wanted to get to you know if you talk of tales got a hair are you yes oh you sit on mum come, sir.Exeunt scene iv.Belmont. portia'sHouse enter portia with that we have in hand any problems we haven't tried it on the bottom of me but it's not she's got a lot on advertising oh yes very good i'm afraid the the windows washing but she said she thought you know well i mean he'd never seen nothing like it joy oh on the way over wasn't working i was going to get them up no no they've got a better crowd for that day ain't they dad i don't know if it's er they employed no one will have been quan tit y and two hundred new book yeah if they're nice ones yeah just a few minutes because of the recession you know what i mean mm that's only wall yeah oh she said they were building there was she yeah yes i don't think i had noticed when we
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:39:34
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1395 chars
+- Time: 2.67s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be doesn't matter it's supposed to yeah and i don't think they'll of the worst i've just dug mm but she was a good idea i'm wired and they bring it all with the bloody out that don't really bother coming right alright you want it to cover your costs for a meal or whatever they call that the real bitch er m so by time i got to them and do it yeah i'll have to go down there but you have a quick ear.Julia.Ay, and brought with the bedrooms the plaster she's got a different approach to beating him i said that you had mine eyes; or your own eyes had the lights they were wont to have when we used to get newspaper at it on saturday yeahthat's right i was cracking up oh yes that lady submit thee to high- vic'd he say you will be more mild and gentle visitation.Rosaline.What you do still betters what is done cannot once i was the only girl there it's just a matter of signing that first of all he dies possess'd unto the crown of france.Hugh evans, a word.Pompey.Very ready but fifteen fifty there you know it's not that they're pleased to see us and then he said you seen your straight down through there ah ah you poor thing is that what the eight hell yeah so are you gonna do then dunno has matthew decided mm you know no no i mean i like fish but er mi don't really care not a word.Edm.I do not like the tower vernon.In such a business give me leave to speak.Say'' st thou
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:40:03
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1343 chars
+- Time: 2.75s
+- Coherence: 0.01
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be honest i mean you can make money and their that their hot that should shut up what are you gonna get then david has a go at them and said that you'd of timed it of the moon they just stayed on the outside dear he does that rim thing of diet coke so i can get two places on the saturday night er hotel i've got the money for me crisps huh sa i said well who are having era south west min s ter er m she came in the other ones are horrible that is it twenty five to ten there though that'll be a doctor in this case, and he starts singing or something is that good job we're not going to get people to be like the family with the game we are talking about here just out for a few minutes that's all it is oh i don't know i think he's covered in grass look phil and you know and we went out to supper, i can produce a champion.And he is yours, and his must needs be friends love thee; i have with my- some rich jewel.Toby approaches; curtsies there to me- sir toby.Bolts and shackles!Fabian.O, what a precious ring- the worst fa f f about your cheese eaten must have just chuck it in this light on for about two months did it i hope to god he was sexy male and a half da da da da i've ironed them on the inside of s no it's not neighbours who's on then, and let me say se i was gonna do painting she's got the two is it i think
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:41:16
+PROMPT: Seed: there be
+==================================================
+METRICS SUMMARY:
+- Length: 1391 chars
+- Time: 2.98s
+- Coherence: 0.03
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+There be four altogether yeahbut that's only a hundred no i reckon well with it if she did play false, and yet i know that you and she said well i it was no way you could i mean if you have to go and get some juice for the boy i'll sort of them home to the hall clearing the next week well mark's had she were crying and g h i hate that place making the fighting your about the money and he said why smash and i thought that was like funny yesterday no this is the only thing i don't like about it it's not fair on the other way around er look at that age i close the cupboard no can i have fifteen kilo metres a second yeah because he's said i'm sure it was at the mechanics of them on the in th'' other day with an ordinary fool that has no more brain than a stone.Look you now, of whose soft seizure thou shalt find- [stabs him] gloucester.You do not meet her new one that's th ames therefore welcome to my proteus.Lucetta.She makes it strange; but i think we should have a capital d e r s yeah and in fact it starts at seven so add y first one then what did you do that what don't know what you're gonna have to go out we've got it straight like over here though yeah yeah i don't know what the qualities of been jumping up and he goes what are we gonna do gonna get nothing that's right something in they could of gained a say what they do the bathroom you know it's it's it's it's good
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:41:31
+PROMPT: Seed: there be
+==================================================
+METRICS SUMMARY:
+- Length: 1341 chars
+- Time: 2.66s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+There be more matter for that, so she could go mad and er m b r s is oh i know she had a big coat on right and he says er why he's gone to nora's yeahbut i had me electric i've been gonna think bloody batteries no thanks my one was it is this one they say well i am spear, that a thing inseparate divides more wider than the sky and earth; and yet the spacious breadth of this division admits no orifex for a point as subtle as ariachne's broken woof to enter.Instance, o instance!Strong as pluto's gates: cressid is mine, tied with the bonds of heaven are slipp'd, dissolv'd, and loos'd; and with a green and yellow melancholy she sat there right i think that's worse than that acting about ten minutes it's four years no no you know what i mean m hm that's great big ad ver t in for the oh yeah yeah you know if anybody else no but there are three er m just got one of them i do now they own that bit or the same thing'll happen oh i'll help you to do it a little bit but not in sort of co b oh bloody hell three fifty and she says i'll pick her up and got the letter it's probably queen, and get you so i thought right i'm gonna go to bed you know that one how much do you weigh nanny couldn't eat them i do i like hale him one of those er m bits as well he said if she had not seen, but i was at her she's got a bit of a shine the god oh
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:42:34
+PROMPT: Seed: there be
+==================================================
+METRICS SUMMARY:
+- Length: 211 chars
+- Time: 0.33s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+There be distributed so long as we've got a one eh he wanted i wanted them and do it what i'm doing anything at all i can get er m some of them v el our curtains for some grave l that's number one book of words?
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:42:38
+PROMPT: Seed: there be
+==================================================
+METRICS SUMMARY:
+- Length: 126 chars
+- Time: 0.22s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+There be ever to pay for mine away no no we seem to do you can get or what so that i go back home yet well of girls are happy.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:42:44
+PROMPT: Seed: there be
+==================================================
+METRICS SUMMARY:
+- Length: 1310 chars
+- Time: 2.28s
+- Coherence: 0.06
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+There be nothing don't know yes we had the meeting with him again till she came yesterday yeah it says hold, take her hence.Good for your sake.Thurio.They say that yeah yeah somebody else well that you and sandra went out from her hand through the the waist coat on for such pal ing it's what he'd be that's all wet but, pardon my great profaneness'' gainst his gentle lady; thither macduff.What the devil art in the year before i be dead can't stop loving you d yeah course i if there's one people and then dad er he's not angry made a mistake there no if my pens any done it somebody up the ceiling nearly gone a bit yeah that's where she doesn't say six hundred and twenty pound off just confused here this to kill you i've i've got their door is being played like how about that how are you going to sleep i said look what is a very proper tin it's got two here be with roy i don't no we and shame to let me see thee a servant still.Gloucester, i have, upon the watch out you be condemned on the weekend actually one two ten onetwothreefourfive sixseveneightnine ten neighbours'' th this thing off well i crapped them okay i've only given him a price for the seventh of you two pound and purses; and had he got to col chester we'll go into town now i can stick it hasn't made his wife i'm only thing on me!
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 09:44:14
+PROMPT: Seed: to be or not to
+==================================================
+METRICS SUMMARY:
+- Length: 1016 chars
+- Time: 0.10s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to of of and the of the to in the the the a a and a of of is the in in and and it and of the the the and the of is to the in the of a and of the in a of it the the to of and and of and is of the the is the it the of to a and a to and of is of and to the the and the of of it of it and a in and to of to the the to of the in of the a and is the and it to a the of and in and of the is it to a the the the in to of a of and and in to in of of of is the the to to a a the it a it the of and and of and to the and to the and is the to of it the a the of of the in in and and the the to and and a and to of it the it of the to a of the in is in the the and to is the of in of and the a a the a to and it in and and a the of and of the to of to the in the to is the the of and a to of the in the and of it and it the the to to the and a to and is to and of and the it in and to and the the of of the a and and and to and the the of of a and of to to it in the a the and the of of the and is of the to of in of
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 10:28:34
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1338 chars
+- Time: 4.45s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be done; mine ten past seven picked it up there now k's in a way but if they are in the wild of them today i think if i remember rightly you ain't go outside ten thousand pound or something like that yeah time this afternoon we pr am i to put it in the bank no no and er there you go thank you right i'll tell you all about that it wasn't really a look at all my sons, as well as i am not sick, if it be not a bawd's to put it out well the new ones oh i see er no i mean it's it's nothing to do with it go to your bedroom hiding guns is it a bigger size yeah got nowhere does anyone want the fan on er m buying christmas presents because she says your dog was a cur, and tells you currish thanks is good enough for such a present.Proteus.But what particular, as you get one left oh he could of gone out even later on in the week on the train who's there?Fool.A lot more ah there i was he on the motor way or the another one of those we've got people come on come and watch cartoons tom cruise a bit of it each yeah i know but don't worry i didn't put it on orange juice only my blood, stop there is one working not as much as the case may be yeah and if you vote for a thing to get you might find it if he doesn't get that time yeah no no i never mind, and partly for the left instead of the right the way there yeahthat's
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 10:28:52
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 615 chars
+- Time: 1.81s
+- Coherence: 0.04
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be oh it's one i didn't know you have you don't have to tell you everything or yeah with the old head for a break already do and ah he's you know if you don't eat it it's like and basically all the watch.Dog.Are you fair?If it be not a flatterer, come, my kate does it was so good and when he got old aye he's yeah that's exactly what she said i can't believe you've got to be in there he's gonna have to have a drink and and you think oh i should think it's never worth it what about that other is the top of there like well i said blah beat.Very true, sir; and so i say it's not there though born!
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 10:30:33
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 156 chars
+- Time: 0.91s
+- Coherence: 1.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be doesn't it were the moor, and others, as i can take jam each other one that's for sure cos they call a rolled house what the point of it.
+==================================================
+
+==================================================
+TIMESTAMP: 2026-01-24 10:30:50
+PROMPT: Seed: to be or not to be
+==================================================
+METRICS SUMMARY:
+- Length: 1323 chars
+- Time: 5.26s
+- Coherence: 0.00
+- Sentiment: 0.00
+--------------------
+GENERATED OUTPUT:
+To be or not to be- lafeu.Generally thankful.Enter king, helena, and attendants parolles.I would have said if i'd known what sandra can be like you know i said mr sandy i could put it on to de de decipher ing you mean they throw a ten ner were talking about it and he goes i can't swim damn paul's pointing up there that's the only reason that police woman you don't need them well er m young doctors yeah it's a toothbrush oh god what have i got to get some more er extend the er well you would do it a lot of the time er m and ms is yes oh yeah definitely i think it was the g p s w ich oh that one seventeen dollars a look look yeah isn't it what the chap he was really sounding and down, up to the window er m took them in he was he was put on your hose.Valentine.Belike, boy, then you should be wary in this place and er m no oh i don't often go our different if they think you ought to go up to scotland today inn it i don't know how they get i know what i've done with the lamb, vary enormously, for a big mistake to call him so it's a bit late you know yeah yeah always the same and we got it right i don't mind that fleet wood mac song very good the way to lose him.Charmian.Then belike my children shall have no names.Speed.''Item: she will often praise her liquor.''Launce.Why, i pray thee, let me feel thy cloak
+==================================================

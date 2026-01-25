@@ -1,0 +1,5396 @@
+{
+  "training_history": [
+    {
+      "epoch": 1,
+      "tokens_processed": 10036,
+      "ngrams_learned": {
+        "2": 2104,
+        "3": 7498,
+        "4": 9639,
+        "5": 9949
+      },
+      "perplexity": Infinity,
+      "coherence_score": 1.0,
+      "diversity_score": 0.815,
+      "memory_usage_mb": 0.0,
+      "training_rate": 917.1967992632867,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:57.361890"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 10036,
+      "ngrams_learned": {
+        "2": 2110,
+        "3": 7518,
+        "4": 9667,
+        "5": 9980
+      },
+      "perplexity": Infinity,
+      "coherence_score": 1.0,
+      "diversity_score": 0.8472222222222223,
+      "memory_usage_mb": 0.0,
+      "training_rate": 55.6962556477341,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:58.008235"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 10036,
+      "ngrams_learned": {
+        "2": 2110,
+        "3": 7518,
+        "4": 9667,
+        "5": 9980
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 9.182624816894531,
+      "training_rate": 55.6962556477341,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:58.162871"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 20290,
+      "ngrams_learned": {
+        "2": 3240,
+        "3": 13700,
+        "4": 18978,
+        "5": 19864
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03529411764705882,
+      "diversity_score": 0.81,
+      "memory_usage_mb": 0.0,
+      "training_rate": 40624.60894141531,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:58.254414"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 20290,
+      "ngrams_learned": {
+        "2": 3257,
+        "3": 13824,
+        "4": 19192,
+        "5": 20108
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.07628004179728318,
+      "diversity_score": 0.8099999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 438.6346540711151,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:58.833450"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 20290,
+      "ngrams_learned": {
+        "2": 3257,
+        "3": 13824,
+        "4": 19192,
+        "5": 20108
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 10.311758041381836,
+      "training_rate": 438.6346540711151,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:59.084144"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 30669,
+      "ngrams_learned": {
+        "2": 4241,
+        "3": 19310,
+        "4": 27939,
+        "5": 29679
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06308610400682012,
+      "diversity_score": 0.825,
+      "memory_usage_mb": 0.0,
+      "training_rate": 33309.43444774991,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:59.133700"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 30669,
+      "ngrams_learned": {
+        "2": 4273,
+        "3": 19515,
+        "4": 28266,
+        "5": 30047
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.013888888888888888,
+      "diversity_score": 0.785,
+      "memory_usage_mb": 0.0,
+      "training_rate": 736.6414063665743,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:59.648168"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 30669,
+      "ngrams_learned": {
+        "2": 4273,
+        "3": 19515,
+        "4": 28266,
+        "5": 30047
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 11.39692497253418,
+      "training_rate": 736.6414063665743,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:15:59.991761"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 41194,
+      "ngrams_learned": {
+        "2": 4925,
+        "3": 23922,
+        "4": 36343,
+        "5": 39401
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 23363.133931127755,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:00.076216"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 41194,
+      "ngrams_learned": {
+        "2": 4962,
+        "3": 24132,
+        "4": 36751,
+        "5": 39888
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.04112903225806452,
+      "diversity_score": 0.8049999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1057.7212594801817,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:00.572552"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 41194,
+      "ngrams_learned": {
+        "2": 4962,
+        "3": 24132,
+        "4": 36751,
+        "5": 39888
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 12.409416198730469,
+      "training_rate": 1057.7212594801817,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:01.036771"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 51803,
+      "ngrams_learned": {
+        "2": 5509,
+        "3": 28114,
+        "4": 44572,
+        "5": 49137
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0632716049382716,
+      "diversity_score": 0.755,
+      "memory_usage_mb": 0.0,
+      "training_rate": 19657.891246404633,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:01.081279"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 51803,
+      "ngrams_learned": {
+        "2": 5533,
+        "3": 28336,
+        "4": 45020,
+        "5": 49663
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.04249084249084249,
+      "diversity_score": 0.81,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1197.4035256477869,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:01.589810"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 51803,
+      "ngrams_learned": {
+        "2": 5533,
+        "3": 28336,
+        "4": 45020,
+        "5": 49663
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 13.398468017578125,
+      "training_rate": 1197.4035256477869,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:02.248436"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 61869,
+      "ngrams_learned": {
+        "2": 6173,
+        "3": 32804,
+        "4": 53271,
+        "5": 59150
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.041666666666666664,
+      "diversity_score": 0.495,
+      "memory_usage_mb": 0.0,
+      "training_rate": 14267.635870332442,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:02.290757"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 61869,
+      "ngrams_learned": {
+        "2": 6176,
+        "3": 32825,
+        "4": 53319,
+        "5": 59208
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.021052631578947368,
+      "diversity_score": 0.792459349593496,
+      "memory_usage_mb": 0.0,
+      "training_rate": 123.16182671195851,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:02.826619"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 61869,
+      "ngrams_learned": {
+        "2": 6176,
+        "3": 32825,
+        "4": 53319,
+        "5": 59208
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 14.412256240844727,
+      "training_rate": 123.16182671195851,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:03.485312"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 72067,
+      "ngrams_learned": {
+        "2": 6705,
+        "3": 36809,
+        "4": 61277,
+        "5": 68651
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06890168654874537,
+      "diversity_score": 0.65,
+      "memory_usage_mb": 0.0,
+      "training_rate": 14040.64864835913,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:03.538864"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 72067,
+      "ngrams_learned": {
+        "2": 6717,
+        "3": 36884,
+        "4": 61427,
+        "5": 68829
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.109006734006734,
+      "diversity_score": 0.755,
+      "memory_usage_mb": 0.0,
+      "training_rate": 384.20803167405114,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:04.054176"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 72067,
+      "ngrams_learned": {
+        "2": 6717,
+        "3": 36884,
+        "4": 61427,
+        "5": 68829
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 15.394632339477539,
+      "training_rate": 384.20803167405114,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:04.850460"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 82036,
+      "ngrams_learned": {
+        "2": 7217,
+        "3": 40831,
+        "4": 69323,
+        "5": 78221
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.73,
+      "memory_usage_mb": 0.0,
+      "training_rate": 11873.429056765151,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:04.893807"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 82036,
+      "ngrams_learned": {
+        "2": 7217,
+        "3": 40831,
+        "4": 69323,
+        "5": 78221
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 16.350139617919922,
+      "training_rate": 11873.429056765151,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:06.214872"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 92281,
+      "ngrams_learned": {
+        "2": 7627,
+        "3": 44363,
+        "4": 76825,
+        "5": 87468
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.025641025641025644,
+      "diversity_score": 0.71,
+      "memory_usage_mb": 0.0,
+      "training_rate": 7312.8217216558905,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:06.261278"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 92281,
+      "ngrams_learned": {
+        "2": 7643,
+        "3": 44443,
+        "4": 77004,
+        "5": 87674
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.015625,
+      "diversity_score": 0.825,
+      "memory_usage_mb": 0.0,
+      "training_rate": 431.29976966107273,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:06.829297"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 92281,
+      "ngrams_learned": {
+        "2": 7643,
+        "3": 44443,
+        "4": 77004,
+        "5": 87674
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 17.298664093017578,
+      "training_rate": 431.29976966107273,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:07.770372"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 102661,
+      "ngrams_learned": {
+        "2": 8145,
+        "3": 48313,
+        "4": 84796,
+        "5": 97026
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.020853698273053112,
+      "diversity_score": 0.8300000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 10191.203641159565,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:07.810572"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 102661,
+      "ngrams_learned": {
+        "2": 8160,
+        "3": 48442,
+        "4": 85067,
+        "5": 97371
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.007407407407407408,
+      "diversity_score": 0.76,
+      "memory_usage_mb": 0.0,
+      "training_rate": 847.5125651120597,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:08.258902"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 102661,
+      "ngrams_learned": {
+        "2": 8160,
+        "3": 48442,
+        "4": 85067,
+        "5": 97371
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 18.281564712524414,
+      "training_rate": 847.5125651120597,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:09.327801"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 113416,
+      "ngrams_learned": {
+        "2": 8462,
+        "3": 51470,
+        "4": 92056,
+        "5": 106254
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.013986013986013986,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 8985.450366804316,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:09.371852"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 113416,
+      "ngrams_learned": {
+        "2": 8484,
+        "3": 51710,
+        "4": 92605,
+        "5": 106937
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1222.4005484532677,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:09.989443"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 113416,
+      "ngrams_learned": {
+        "2": 8484,
+        "3": 51710,
+        "4": 92605,
+        "5": 106937
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 19.197431564331055,
+      "training_rate": 1222.4005484532677,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:11.225295"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 124298,
+      "ngrams_learned": {
+        "2": 8893,
+        "3": 55172,
+        "4": 99906,
+        "5": 115786
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0925925925925926,
+      "diversity_score": 0.605,
+      "memory_usage_mb": 0.0,
+      "training_rate": 7717.826961711386,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:11.285187"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 124298,
+      "ngrams_learned": {
+        "2": 8909,
+        "3": 55422,
+        "4": 100514,
+        "5": 116552
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.10568986568986569,
+      "diversity_score": 0.8049999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1936.3960042796334,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:11.740610"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 124298,
+      "ngrams_learned": {
+        "2": 8909,
+        "3": 55422,
+        "4": 100514,
+        "5": 116552
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 20.158641815185547,
+      "training_rate": 1936.3960042796334,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:13.049978"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 135449,
+      "ngrams_learned": {
+        "2": 9242,
+        "3": 58432,
+        "4": 107441,
+        "5": 125311
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.73,
+      "memory_usage_mb": 0.0,
+      "training_rate": 7348.605434244998,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:13.101477"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 135449,
+      "ngrams_learned": {
+        "2": 9283,
+        "3": 58730,
+        "4": 108139,
+        "5": 126223
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0804093567251462,
+      "diversity_score": 0.745,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2032.2634694744393,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:13.667800"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 135449,
+      "ngrams_learned": {
+        "2": 9283,
+        "3": 58730,
+        "4": 108139,
+        "5": 126223
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 21.10112953186035,
+      "training_rate": 2032.2634694744393,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:14.926474"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 145722,
+      "ngrams_learned": {
+        "2": 9678,
+        "3": 62351,
+        "4": 115786,
+        "5": 135517
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06388888888888888,
+      "diversity_score": 0.835,
+      "memory_usage_mb": 0.0,
+      "training_rate": 7632.11435186592,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:14.978087"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 145722,
+      "ngrams_learned": {
+        "2": 9687,
+        "3": 62432,
+        "4": 115982,
+        "5": 135765
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.007407407407407407,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 489.09405485753825,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:15.536224"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 145722,
+      "ngrams_learned": {
+        "2": 9687,
+        "3": 62432,
+        "4": 115982,
+        "5": 135765
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 22.07704734802246,
+      "training_rate": 489.09405485753825,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:17.022994"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 155857,
+      "ngrams_learned": {
+        "2": 10032,
+        "3": 65871,
+        "4": 123577,
+        "5": 145135
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.795,
+      "memory_usage_mb": 0.0,
+      "training_rate": 6515.553241291633,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:17.071056"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 155857,
+      "ngrams_learned": {
+        "2": 10037,
+        "3": 65919,
+        "4": 123679,
+        "5": 145257
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.005291005291005291,
+      "diversity_score": 0.8200000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 267.87503761020497,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:17.574985"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 155857,
+      "ngrams_learned": {
+        "2": 10037,
+        "3": 65919,
+        "4": 123679,
+        "5": 145257
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 23.043094635009766,
+      "training_rate": 267.87503761020497,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:19.205652"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 166128,
+      "ngrams_learned": {
+        "2": 10336,
+        "3": 68989,
+        "4": 130697,
+        "5": 154237
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03773584905660378,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 5950.034961369424,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:19.255684"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 166128,
+      "ngrams_learned": {
+        "2": 10349,
+        "3": 69075,
+        "4": 130883,
+        "5": 154485
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.04433497536945813,
+      "diversity_score": 0.74,
+      "memory_usage_mb": 0.0,
+      "training_rate": 413.43723820456523,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:19.911132"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 166128,
+      "ngrams_learned": {
+        "2": 10349,
+        "3": 69075,
+        "4": 130883,
+        "5": 154485
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 23.955860137939453,
+      "training_rate": 413.43723820456523,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:21.794154"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 176282,
+      "ngrams_learned": {
+        "2": 10636,
+        "3": 72267,
+        "4": 138245,
+        "5": 163683
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.024489795918367346,
+      "diversity_score": 0.8099999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 5192.720912347182,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:21.836940"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 176282,
+      "ngrams_learned": {
+        "2": 10641,
+        "3": 72314,
+        "4": 138362,
+        "5": 163830
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.745,
+      "memory_usage_mb": 0.0,
+      "training_rate": 282.23947341628786,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:22.382515"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 176282,
+      "ngrams_learned": {
+        "2": 10641,
+        "3": 72314,
+        "4": 138362,
+        "5": 163830
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 24.891159057617188,
+      "training_rate": 282.23947341628786,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:23.925993"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 186532,
+      "ngrams_learned": {
+        "2": 10962,
+        "3": 75681,
+        "4": 145829,
+        "5": 173062
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.75,
+      "memory_usage_mb": 0.0,
+      "training_rate": 6311.181598084814,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:23.967067"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 186532,
+      "ngrams_learned": {
+        "2": 10970,
+        "3": 75772,
+        "4": 146025,
+        "5": 173296
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.008163265306122448,
+      "diversity_score": 0.7949999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 522.4114978995449,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:24.445567"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 186532,
+      "ngrams_learned": {
+        "2": 10970,
+        "3": 75772,
+        "4": 146025,
+        "5": 173296
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 25.842863082885742,
+      "training_rate": 522.4114978995449,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:26.160901"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 196980,
+      "ngrams_learned": {
+        "2": 11251,
+        "3": 79092,
+        "4": 153665,
+        "5": 182754
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06666666666666667,
+      "diversity_score": 0.785,
+      "memory_usage_mb": 0.0,
+      "training_rate": 5697.49602739164,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:26.200773"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 196980,
+      "ngrams_learned": {
+        "2": 11260,
+        "3": 79242,
+        "4": 154011,
+        "5": 183182
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06133333333333333,
+      "diversity_score": 0.845,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1051.3881111701107,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:26.626818"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 196980,
+      "ngrams_learned": {
+        "2": 11260,
+        "3": 79242,
+        "4": 154011,
+        "5": 183182
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 26.81720542907715,
+      "training_rate": 1051.3881111701107,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:28.452919"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 207290,
+      "ngrams_learned": {
+        "2": 11541,
+        "3": 82628,
+        "4": 161602,
+        "5": 192526
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.04455583402951824,
+      "diversity_score": 0.725,
+      "memory_usage_mb": 0.0,
+      "training_rate": 5314.82479012462,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:28.508395"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 207290,
+      "ngrams_learned": {
+        "2": 11547,
+        "3": 82709,
+        "4": 161824,
+        "5": 192812
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 555.3089459956839,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:29.066615"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 207290,
+      "ngrams_learned": {
+        "2": 11547,
+        "3": 82709,
+        "4": 161824,
+        "5": 192812
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 27.774188995361328,
+      "training_rate": 555.3089459956839,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:31.003350"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 217775,
+      "ngrams_learned": {
+        "2": 11939,
+        "3": 85936,
+        "4": 169165,
+        "5": 201989
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03518518518518518,
+      "diversity_score": 0.81,
+      "memory_usage_mb": 0.0,
+      "training_rate": 5055.847759857646,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:31.044559"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 217775,
+      "ngrams_learned": {
+        "2": 11952,
+        "3": 86032,
+        "4": 169439,
+        "5": 202392
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.039999999999999994,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1052.2376786435684,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:31.505398"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 217775,
+      "ngrams_learned": {
+        "2": 11952,
+        "3": 86032,
+        "4": 169439,
+        "5": 202392
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 28.71809196472168,
+      "training_rate": 1052.2376786435684,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:33.529822"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 228414,
+      "ngrams_learned": {
+        "2": 12255,
+        "3": 89010,
+        "4": 176458,
+        "5": 211343
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.02222222222222222,
+      "diversity_score": 0.81,
+      "memory_usage_mb": 0.0,
+      "training_rate": 4830.798403763742,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:33.575536"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 228414,
+      "ngrams_learned": {
+        "2": 12287,
+        "3": 89225,
+        "4": 176933,
+        "5": 211934
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.028935185185185185,
+      "diversity_score": 0.745,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1021.9033626998597,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:34.200754"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 228414,
+      "ngrams_learned": {
+        "2": 12287,
+        "3": 89225,
+        "4": 176933,
+        "5": 211934
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 29.641462326049805,
+      "training_rate": 1021.9033626998597,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:36.303844"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 238909,
+      "ngrams_learned": {
+        "2": 12589,
+        "3": 92191,
+        "4": 183812,
+        "5": 220707
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06018518518518518,
+      "diversity_score": 0.795,
+      "memory_usage_mb": 0.0,
+      "training_rate": 4668.872476665121,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:36.342680"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 238909,
+      "ngrams_learned": {
+        "2": 12604,
+        "3": 92337,
+        "4": 184159,
+        "5": 221154
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.8150000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1065.838820779586,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:36.807042"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 238909,
+      "ngrams_learned": {
+        "2": 12604,
+        "3": 92337,
+        "4": 184159,
+        "5": 221154
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 30.532699584960938,
+      "training_rate": 1065.838820779586,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:39.206206"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 249585,
+      "ngrams_learned": {
+        "2": 12944,
+        "3": 95283,
+        "4": 191022,
+        "5": 229961
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.11355311355311357,
+      "diversity_score": 0.73,
+      "memory_usage_mb": 0.0,
+      "training_rate": 4090.4008643636926,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:39.251855"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 249585,
+      "ngrams_learned": {
+        "2": 12953,
+        "3": 95441,
+        "4": 191448,
+        "5": 230548
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.675,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1279.7942037659677,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:39.780012"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 249585,
+      "ngrams_learned": {
+        "2": 12953,
+        "3": 95441,
+        "4": 191448,
+        "5": 230548
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 31.431936264038086,
+      "training_rate": 1279.7942037659677,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:41.792917"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 260034,
+      "ngrams_learned": {
+        "2": 13301,
+        "3": 98698,
+        "4": 198634,
+        "5": 239641
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.041666666666666664,
+      "diversity_score": 0.805,
+      "memory_usage_mb": 0.0,
+      "training_rate": 4859.64645795801,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:41.837817"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 260034,
+      "ngrams_learned": {
+        "2": 13319,
+        "3": 98840,
+        "4": 198976,
+        "5": 240063
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.047058823529411764,
+      "diversity_score": 0.725,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1004.7491336955228,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:42.284650"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 260034,
+      "ngrams_learned": {
+        "2": 13319,
+        "3": 98840,
+        "4": 198976,
+        "5": 240063
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 32.371225357055664,
+      "training_rate": 1004.7491336955228,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:44.681271"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 270896,
+      "ngrams_learned": {
+        "2": 13611,
+        "3": 101636,
+        "4": 205744,
+        "5": 248958
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.845,
+      "memory_usage_mb": 0.0,
+      "training_rate": 4101.760891126581,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:44.722682"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 270896,
+      "ngrams_learned": {
+        "2": 13646,
+        "3": 101955,
+        "4": 206416,
+        "5": 249779
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.10325581395348837,
+      "diversity_score": 0.79,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1564.9195822598963,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:45.273446"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 270896,
+      "ngrams_learned": {
+        "2": 13646,
+        "3": 101955,
+        "4": 206416,
+        "5": 249779
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 33.292518615722656,
+      "training_rate": 1564.9195822598963,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:47.412865"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 281525,
+      "ngrams_learned": {
+        "2": 13896,
+        "3": 104716,
+        "4": 213192,
+        "5": 258631
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.053676865271068165,
+      "diversity_score": 0.8200000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 4600.242762025106,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:47.447302"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 281525,
+      "ngrams_learned": {
+        "2": 13908,
+        "3": 104860,
+        "4": 213598,
+        "5": 259191
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.058195592286501376,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1543.6954571226786,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:47.854722"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 281525,
+      "ngrams_learned": {
+        "2": 13908,
+        "3": 104860,
+        "4": 213598,
+        "5": 259191
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 34.190486907958984,
+      "training_rate": 1543.6954571226786,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:50.067411"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 291844,
+      "ngrams_learned": {
+        "2": 14137,
+        "3": 107809,
+        "4": 220561,
+        "5": 268129
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03571428571428571,
+      "diversity_score": 0.785,
+      "memory_usage_mb": 0.0,
+      "training_rate": 4420.7875788456295,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:50.116813"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 291844,
+      "ngrams_learned": {
+        "2": 14141,
+        "3": 107873,
+        "4": 220762,
+        "5": 268415
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.745,
+      "memory_usage_mb": 0.0,
+      "training_rate": 542.015210647291,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:50.705333"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 291844,
+      "ngrams_learned": {
+        "2": 14141,
+        "3": 107873,
+        "4": 220762,
+        "5": 268415
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 35.10176467895508,
+      "training_rate": 542.015210647291,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:53.033841"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 302698,
+      "ngrams_learned": {
+        "2": 14394,
+        "3": 110502,
+        "4": 227480,
+        "5": 277339
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.02040816326530612,
+      "diversity_score": 0.73,
+      "memory_usage_mb": 0.0,
+      "training_rate": 4218.389739897895,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:53.075914"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 302698,
+      "ngrams_learned": {
+        "2": 14404,
+        "3": 110648,
+        "4": 227930,
+        "5": 278020
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.013888888888888888,
+      "diversity_score": 0.7949999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1913.1716469488583,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:53.522266"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 302698,
+      "ngrams_learned": {
+        "2": 14404,
+        "3": 110648,
+        "4": 227930,
+        "5": 278020
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 36.01037788391113,
+      "training_rate": 1913.1716469488583,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:56.152858"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 312769,
+      "ngrams_learned": {
+        "2": 14642,
+        "3": 113624,
+        "4": 235005,
+        "5": 287077
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.030285714285714284,
+      "diversity_score": 0.8150000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 3741.1447483495426,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:56.195277"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 312769,
+      "ngrams_learned": {
+        "2": 14645,
+        "3": 113646,
+        "4": 235046,
+        "5": 287130
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.7297722567287784,
+      "memory_usage_mb": 0.0,
+      "training_rate": 123.05841642379005,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:16:56.772209"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 312769,
+      "ngrams_learned": {
+        "2": 14645,
+        "3": 113646,
+        "4": 235046,
+        "5": 287130
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 36.9285774230957,
+      "training_rate": 123.05841642379005,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:00.356255"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 322859,
+      "ngrams_learned": {
+        "2": 14968,
+        "3": 116603,
+        "4": 242006,
+        "5": 296122
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.012345679012345678,
+      "diversity_score": 0.77,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2759.3602406061414,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:00.396279"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 322859,
+      "ngrams_learned": {
+        "2": 14969,
+        "3": 116631,
+        "4": 242068,
+        "5": 296199
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.915,
+      "memory_usage_mb": 0.0,
+      "training_rate": 201.54964026856388,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:00.842787"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 322859,
+      "ngrams_learned": {
+        "2": 14969,
+        "3": 116631,
+        "4": 242068,
+        "5": 296199
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 37.84059524536133,
+      "training_rate": 201.54964026856388,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:04.278405"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 333064,
+      "ngrams_learned": {
+        "2": 15349,
+        "3": 119942,
+        "4": 249217,
+        "5": 305172
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.1486595290943117,
+      "diversity_score": 0.85,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2874.5039629847743,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:04.321674"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 333064,
+      "ngrams_learned": {
+        "2": 15362,
+        "3": 120033,
+        "4": 249385,
+        "5": 305363
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.04857142857142857,
+      "diversity_score": 0.75,
+      "memory_usage_mb": 0.0,
+      "training_rate": 260.06844763604613,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:05.109885"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 333064,
+      "ngrams_learned": {
+        "2": 15362,
+        "3": 120033,
+        "4": 249385,
+        "5": 305363
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 38.769147872924805,
+      "training_rate": 260.06844763604613,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:09.043079"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 343396,
+      "ngrams_learned": {
+        "2": 15655,
+        "3": 122957,
+        "4": 256430,
+        "5": 314467
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03125,
+      "diversity_score": 0.76,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2502.7846981263115,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:09.105465"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 343396,
+      "ngrams_learned": {
+        "2": 15663,
+        "3": 123061,
+        "4": 256670,
+        "5": 314768
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.020869565217391306,
+      "diversity_score": 0.72,
+      "memory_usage_mb": 0.0,
+      "training_rate": 594.2205553334206,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:09.664110"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 343396,
+      "ngrams_learned": {
+        "2": 15663,
+        "3": 123061,
+        "4": 256670,
+        "5": 314768
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 39.69987487792969,
+      "training_rate": 594.2205553334206,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:13.188105"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 353749,
+      "ngrams_learned": {
+        "2": 15947,
+        "3": 125694,
+        "4": 263233,
+        "5": 323481
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.021008403361344536,
+      "diversity_score": 0.79,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2787.7138920178795,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:13.251352"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 353749,
+      "ngrams_learned": {
+        "2": 15959,
+        "3": 125837,
+        "4": 263513,
+        "5": 323817
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.010869565217391304,
+      "diversity_score": 0.885,
+      "memory_usage_mb": 0.0,
+      "training_rate": 479.35352917922984,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:13.987737"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 353749,
+      "ngrams_learned": {
+        "2": 15959,
+        "3": 125837,
+        "4": 263513,
+        "5": 323817
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 40.58886909484863,
+      "training_rate": 479.35352917922984,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:17.774161"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 363450,
+      "ngrams_learned": {
+        "2": 16217,
+        "3": 128958,
+        "4": 270761,
+        "5": 332849
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.071524064171123,
+      "diversity_score": 0.875,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2496.5490160034237,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:17.873530"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 363450,
+      "ngrams_learned": {
+        "2": 16217,
+        "3": 128958,
+        "4": 270761,
+        "5": 332849
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 41.518842697143555,
+      "training_rate": 2496.5490160034237,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:22.041639"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 373060,
+      "ngrams_learned": {
+        "2": 16433,
+        "3": 131910,
+        "4": 277686,
+        "5": 341597
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.07092704043923556,
+      "diversity_score": 0.825,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2275.7457026078623,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:22.096321"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 373060,
+      "ngrams_learned": {
+        "2": 16433,
+        "3": 131910,
+        "4": 277686,
+        "5": 341597
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 42.42583656311035,
+      "training_rate": 2275.7457026078623,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:26.715215"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 382798,
+      "ngrams_learned": {
+        "2": 16649,
+        "3": 134788,
+        "4": 284529,
+        "5": 350345
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.140143980297433,
+      "diversity_score": 0.815,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2087.015145833313,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:26.762323"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 382798,
+      "ngrams_learned": {
+        "2": 16649,
+        "3": 134788,
+        "4": 284529,
+        "5": 350345
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 43.32203483581543,
+      "training_rate": 2087.015145833313,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:31.208440"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 392994,
+      "ngrams_learned": {
+        "2": 16834,
+        "3": 137354,
+        "4": 291171,
+        "5": 359178
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2226.1257095593123,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:31.254431"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 392994,
+      "ngrams_learned": {
+        "2": 16836,
+        "3": 137395,
+        "4": 291291,
+        "5": 359351
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.057291666666666664,
+      "diversity_score": 0.73,
+      "memory_usage_mb": 0.0,
+      "training_rate": 291.9789199867309,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:31.925663"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 392994,
+      "ngrams_learned": {
+        "2": 16836,
+        "3": 137395,
+        "4": 291291,
+        "5": 359351
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 44.207204818725586,
+      "training_rate": 291.9789199867309,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:35.053778"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 403091,
+      "ngrams_learned": {
+        "2": 17026,
+        "3": 140320,
+        "4": 298305,
+        "5": 368383
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.016326530612244896,
+      "diversity_score": 0.8200000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 3137.4654064155693,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:35.112999"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 403091,
+      "ngrams_learned": {
+        "2": 17032,
+        "3": 140367,
+        "4": 298386,
+        "5": 368476
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.09449404761904762,
+      "diversity_score": 0.8610831721470019,
+      "memory_usage_mb": 0.0,
+      "training_rate": 184.39626246840973,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:35.639003"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 403091,
+      "ngrams_learned": {
+        "2": 17032,
+        "3": 140367,
+        "4": 298386,
+        "5": 368476
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 45.12332344055176,
+      "training_rate": 184.39626246840973,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:38.597064"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 413506,
+      "ngrams_learned": {
+        "2": 17220,
+        "3": 142986,
+        "4": 305124,
+        "5": 377465
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.051373954599761046,
+      "diversity_score": 0.83,
+      "memory_usage_mb": 0.0,
+      "training_rate": 3340.7702697137956,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:38.632348"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 413506,
+      "ngrams_learned": {
+        "2": 17225,
+        "3": 143085,
+        "4": 305411,
+        "5": 377835
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.10164299637983848,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1010.4609268693662,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:39.043006"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 413506,
+      "ngrams_learned": {
+        "2": 17225,
+        "3": 143085,
+        "4": 305411,
+        "5": 377835
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 46.02371788024902,
+      "training_rate": 1010.4609268693662,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:41.991777"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 423596,
+      "ngrams_learned": {
+        "2": 17379,
+        "3": 145572,
+        "4": 311985,
+        "5": 386650
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.7949999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 3344.931818658502,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:42.032663"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 423596,
+      "ngrams_learned": {
+        "2": 17381,
+        "3": 145605,
+        "4": 312047,
+        "5": 386732
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.08519924098671727,
+      "diversity_score": 0.7991666666666667,
+      "memory_usage_mb": 0.0,
+      "training_rate": 148.29927835744112,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:42.639500"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 423596,
+      "ngrams_learned": {
+        "2": 17381,
+        "3": 145605,
+        "4": 312047,
+        "5": 386732
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 46.887142181396484,
+      "training_rate": 148.29927835744112,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:45.703965"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 433858,
+      "ngrams_learned": {
+        "2": 17515,
+        "3": 148104,
+        "4": 318672,
+        "5": 395537
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.014545454545454545,
+      "diversity_score": 0.815,
+      "memory_usage_mb": 0.0,
+      "training_rate": 3226.953898603286,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:45.738443"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 433858,
+      "ngrams_learned": {
+        "2": 17519,
+        "3": 148189,
+        "4": 318873,
+        "5": 395780
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.01680672268907563,
+      "diversity_score": 0.875,
+      "memory_usage_mb": 0.0,
+      "training_rate": 715.1236623655858,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:46.104769"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 433858,
+      "ngrams_learned": {
+        "2": 17519,
+        "3": 148189,
+        "4": 318873,
+        "5": 395780
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 47.76800346374512,
+      "training_rate": 715.1236623655858,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:49.138159"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 443809,
+      "ngrams_learned": {
+        "2": 17633,
+        "3": 150575,
+        "4": 325373,
+        "5": 404489
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.006802721088435374,
+      "diversity_score": 0.7250000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 3243.091129595222,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:49.173184"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 443809,
+      "ngrams_learned": {
+        "2": 17633,
+        "3": 150575,
+        "4": 325373,
+        "5": 404489
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 48.62798500061035,
+      "training_rate": 3243.091129595222,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:52.845870"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 453835,
+      "ngrams_learned": {
+        "2": 17854,
+        "3": 153379,
+        "4": 332281,
+        "5": 413475
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.05725108225108225,
+      "diversity_score": 0.755,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2698.181336294213,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:52.879382"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 453835,
+      "ngrams_learned": {
+        "2": 17855,
+        "3": 153382,
+        "4": 332290,
+        "5": 413487
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.8076923076923077,
+      "memory_usage_mb": 0.0,
+      "training_rate": 76.6931476695325,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:53.218329"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 453835,
+      "ngrams_learned": {
+        "2": 17855,
+        "3": 153382,
+        "4": 332290,
+        "5": 413487
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 49.52544403076172,
+      "training_rate": 76.6931476695325,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:56.271177"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 464047,
+      "ngrams_learned": {
+        "2": 17969,
+        "3": 155799,
+        "4": 339016,
+        "5": 422401
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.07276785714285713,
+      "diversity_score": 0.75,
+      "memory_usage_mb": 0.0,
+      "training_rate": 3232.1286987525305,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:56.312329"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 464047,
+      "ngrams_learned": {
+        "2": 17970,
+        "3": 155868,
+        "4": 339177,
+        "5": 422593
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.825,
+      "memory_usage_mb": 0.0,
+      "training_rate": 355.42732704548325,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:17:56.908747"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 464047,
+      "ngrams_learned": {
+        "2": 17970,
+        "3": 155868,
+        "4": 339177,
+        "5": 422593
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 50.40584754943848,
+      "training_rate": 355.42732704548325,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:00.942664"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 474346,
+      "ngrams_learned": {
+        "2": 18092,
+        "3": 158243,
+        "4": 345782,
+        "5": 431492
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.017094017094017096,
+      "diversity_score": 0.79,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2450.690297851226,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:00.989281"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 474346,
+      "ngrams_learned": {
+        "2": 18094,
+        "3": 158300,
+        "4": 345961,
+        "5": 431748
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03571428571428571,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 638.2377124559209,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:01.457706"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 474346,
+      "ngrams_learned": {
+        "2": 18094,
+        "3": 158300,
+        "4": 345961,
+        "5": 431748
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 51.279457092285156,
+      "training_rate": 638.2377124559209,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:05.682028"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 484628,
+      "ngrams_learned": {
+        "2": 18237,
+        "3": 160705,
+        "4": 352620,
+        "5": 440621
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.024691358024691357,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2348.1390667142828,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:05.716444"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 484628,
+      "ngrams_learned": {
+        "2": 18244,
+        "3": 160782,
+        "4": 352830,
+        "5": 440889
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.009852216748768473,
+      "diversity_score": 0.8300000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 701.2580546092487,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:06.118539"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 484628,
+      "ngrams_learned": {
+        "2": 18244,
+        "3": 160782,
+        "4": 352830,
+        "5": 440889
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 52.158926010131836,
+      "training_rate": 701.2580546092487,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:09.670189"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 494861,
+      "ngrams_learned": {
+        "2": 18392,
+        "3": 163453,
+        "4": 359802,
+        "5": 450011
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.05501424501424501,
+      "diversity_score": 0.8099999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2786.4830422841073,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:09.707331"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 494861,
+      "ngrams_learned": {
+        "2": 18393,
+        "3": 163520,
+        "4": 359964,
+        "5": 450215
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.07037037037037036,
+      "diversity_score": 0.735,
+      "memory_usage_mb": 0.0,
+      "training_rate": 562.7804951085742,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:10.121311"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 494861,
+      "ngrams_learned": {
+        "2": 18393,
+        "3": 163520,
+        "4": 359964,
+        "5": 450215
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 53.07754325866699,
+      "training_rate": 562.7804951085742,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:14.593818"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 505030,
+      "ngrams_learned": {
+        "2": 18524,
+        "3": 166026,
+        "4": 366797,
+        "5": 459244
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.05528322440087146,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2214.575783980358,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:14.636868"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 505030,
+      "ngrams_learned": {
+        "2": 18525,
+        "3": 166061,
+        "4": 366908,
+        "5": 459394
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.6950000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 379.9357423605479,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:15.081660"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 505030,
+      "ngrams_learned": {
+        "2": 18525,
+        "3": 166061,
+        "4": 366908,
+        "5": 459394
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 53.9697208404541,
+      "training_rate": 379.9357423605479,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:19.530999"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 515200,
+      "ngrams_learned": {
+        "2": 18684,
+        "3": 168549,
+        "4": 373506,
+        "5": 468215
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.13153153153153152,
+      "diversity_score": 0.855,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2227.7181130629997,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:19.570600"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 515200,
+      "ngrams_learned": {
+        "2": 18686,
+        "3": 168584,
+        "4": 373608,
+        "5": 468363
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.018808777429467086,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 242.37979872832744,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:20.271936"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 515200,
+      "ngrams_learned": {
+        "2": 18686,
+        "3": 168584,
+        "4": 373608,
+        "5": 468363
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 54.83664131164551,
+      "training_rate": 242.37979872832744,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:24.230240"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 525566,
+      "ngrams_learned": {
+        "2": 18782,
+        "3": 170616,
+        "4": 379866,
+        "5": 477211
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.05405405405405406,
+      "diversity_score": 0.845,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2496.855791074155,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:24.277011"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 525566,
+      "ngrams_learned": {
+        "2": 18785,
+        "3": 170666,
+        "4": 380053,
+        "5": 477501
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.635,
+      "memory_usage_mb": 0.0,
+      "training_rate": 966.8342580025508,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:24.655529"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 525566,
+      "ngrams_learned": {
+        "2": 18785,
+        "3": 170666,
+        "4": 380053,
+        "5": 477501
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 55.6865291595459,
+      "training_rate": 966.8342580025508,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:29.113946"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 535983,
+      "ngrams_learned": {
+        "2": 18905,
+        "3": 172670,
+        "4": 386080,
+        "5": 485951
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.01818181818181818,
+      "diversity_score": 0.81,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2216.516629301991,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:29.167144"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 535983,
+      "ngrams_learned": {
+        "2": 18912,
+        "3": 172786,
+        "4": 386385,
+        "5": 486338
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.71,
+      "memory_usage_mb": 0.0,
+      "training_rate": 550.3629285312409,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:29.924759"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 535983,
+      "ngrams_learned": {
+        "2": 18912,
+        "3": 172786,
+        "4": 386385,
+        "5": 486338
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 56.51018714904785,
+      "training_rate": 550.3629285312409,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:34.083685"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 546479,
+      "ngrams_learned": {
+        "2": 19072,
+        "3": 175116,
+        "4": 392889,
+        "5": 495259
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.08281250000000001,
+      "diversity_score": 0.83,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2384.264539818851,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:34.118998"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 546479,
+      "ngrams_learned": {
+        "2": 19086,
+        "3": 175249,
+        "4": 393228,
+        "5": 495701
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.07536231884057971,
+      "diversity_score": 0.625,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1296.0367011342016,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:34.501658"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 546479,
+      "ngrams_learned": {
+        "2": 19086,
+        "3": 175249,
+        "4": 393228,
+        "5": 495701
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 57.379201889038086,
+      "training_rate": 1296.0367011342016,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:41.186339"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 556835,
+      "ngrams_learned": {
+        "2": 19299,
+        "3": 177842,
+        "4": 399927,
+        "5": 504608
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.795,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1486.5531800664194,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:41.228677"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 556835,
+      "ngrams_learned": {
+        "2": 19304,
+        "3": 177913,
+        "4": 400144,
+        "5": 504912
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.004784688995215311,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 899.9632486071164,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:41.624210"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 556835,
+      "ngrams_learned": {
+        "2": 19304,
+        "3": 177913,
+        "4": 400144,
+        "5": 504912
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 58.253074645996094,
+      "training_rate": 899.9632486071164,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:46.049854"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 567399,
+      "ngrams_learned": {
+        "2": 19458,
+        "3": 180188,
+        "4": 406545,
+        "5": 513596
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.7050000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2241.8920240022208,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:46.084750"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 567399,
+      "ngrams_learned": {
+        "2": 19462,
+        "3": 180306,
+        "4": 406911,
+        "5": 514105
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.029863855950812472,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1515.8736030512437,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:46.456786"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 567399,
+      "ngrams_learned": {
+        "2": 19462,
+        "3": 180306,
+        "4": 406911,
+        "5": 514105
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 59.102895736694336,
+      "training_rate": 1515.8736030512437,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:51.043900"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 577967,
+      "ngrams_learned": {
+        "2": 19588,
+        "3": 182533,
+        "4": 413201,
+        "5": 522823
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.011730205278592375,
+      "diversity_score": 0.795,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2160.451055474343,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:51.085490"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 577967,
+      "ngrams_learned": {
+        "2": 19592,
+        "3": 182637,
+        "4": 413547,
+        "5": 523335
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.665,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1523.4643930320167,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:51.458286"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 577967,
+      "ngrams_learned": {
+        "2": 19592,
+        "3": 182637,
+        "4": 413547,
+        "5": 523335
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 59.96029853820801,
+      "training_rate": 1523.4643930320167,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:56.269001"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 588645,
+      "ngrams_learned": {
+        "2": 19832,
+        "3": 185181,
+        "4": 420183,
+        "5": 532192
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.10386677438307873,
+      "diversity_score": 0.825,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2058.9014205733747,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:56.315269"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 588645,
+      "ngrams_learned": {
+        "2": 19848,
+        "3": 185386,
+        "4": 420649,
+        "5": 532745
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.08292282430213464,
+      "diversity_score": 0.835,
+      "memory_usage_mb": 0.0,
+      "training_rate": 984.5023917233252,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:18:57.003921"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 588645,
+      "ngrams_learned": {
+        "2": 19848,
+        "3": 185386,
+        "4": 420649,
+        "5": 532745
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 60.84874725341797,
+      "training_rate": 984.5023917233252,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:02.025060"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 599381,
+      "ngrams_learned": {
+        "2": 20049,
+        "3": 187766,
+        "4": 427094,
+        "5": 541565
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.685,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1974.3375433790866,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:02.068949"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 599381,
+      "ngrams_learned": {
+        "2": 20060,
+        "3": 187930,
+        "4": 427584,
+        "5": 542232
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.09375,
+      "diversity_score": 0.8049999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1856.7708171936426,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:02.465300"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 599381,
+      "ngrams_learned": {
+        "2": 20060,
+        "3": 187930,
+        "4": 427584,
+        "5": 542232
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 61.746355056762695,
+      "training_rate": 1856.7708171936426,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:06.812392"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 609312,
+      "ngrams_learned": {
+        "2": 20281,
+        "3": 190524,
+        "4": 434283,
+        "5": 551038
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.045787545787545784,
+      "diversity_score": 0.79,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2263.2759044245167,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:06.853219"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 609312,
+      "ngrams_learned": {
+        "2": 20281,
+        "3": 190524,
+        "4": 434283,
+        "5": 551038
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 62.61890411376953,
+      "training_rate": 2263.2759044245167,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:12.002523"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 619390,
+      "ngrams_learned": {
+        "2": 20456,
+        "3": 192990,
+        "4": 440989,
+        "5": 559988
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.685,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1925.5045349139505,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:12.046665"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 619390,
+      "ngrams_learned": {
+        "2": 20457,
+        "3": 193005,
+        "4": 441032,
+        "5": 560053
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.057479557479557485,
+      "diversity_score": 0.7996428571428571,
+      "memory_usage_mb": 0.0,
+      "training_rate": 191.08569239099137,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:12.454799"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 619390,
+      "ngrams_learned": {
+        "2": 20457,
+        "3": 193005,
+        "4": 441032,
+        "5": 560053
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 63.49060249328613,
+      "training_rate": 191.08569239099137,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:17.245204"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 629700,
+      "ngrams_learned": {
+        "2": 20608,
+        "3": 195266,
+        "4": 447278,
+        "5": 568690
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.025974025974025972,
+      "diversity_score": 0.82,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2072.885045702715,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:17.279060"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 629700,
+      "ngrams_learned": {
+        "2": 20611,
+        "3": 195307,
+        "4": 447426,
+        "5": 568924
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.69,
+      "memory_usage_mb": 0.0,
+      "training_rate": 480.51555204062214,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:17.924137"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 629700,
+      "ngrams_learned": {
+        "2": 20611,
+        "3": 195307,
+        "4": 447426,
+        "5": 568924
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 64.33502578735352,
+      "training_rate": 480.51555204062214,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:22.892208"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 640470,
+      "ngrams_learned": {
+        "2": 20726,
+        "3": 197316,
+        "4": 453591,
+        "5": 577629
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.82,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1984.111606277853,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:22.964225"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 640470,
+      "ngrams_learned": {
+        "2": 20741,
+        "3": 197460,
+        "4": 454026,
+        "5": 578280
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1432.1626244256806,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:23.501840"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 640470,
+      "ngrams_learned": {
+        "2": 20741,
+        "3": 197460,
+        "4": 454026,
+        "5": 578280
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.19880867004395,
+      "training_rate": 1432.1626244256806,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:29.296157"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 650776,
+      "ngrams_learned": {
+        "2": 20869,
+        "3": 199502,
+        "4": 460100,
+        "5": 586970
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.014250000000000002,
+      "diversity_score": 0.84,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1712.9467045502392,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:29.339777"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 650776,
+      "ngrams_learned": {
+        "2": 20873,
+        "3": 199553,
+        "4": 460264,
+        "5": 587230
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.007246376811594203,
+      "diversity_score": 0.845,
+      "memory_usage_mb": 0.0,
+      "training_rate": 750.2174587030478,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:29.747631"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 650776,
+      "ngrams_learned": {
+        "2": 20873,
+        "3": 199553,
+        "4": 460264,
+        "5": 587230
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.04493522644043,
+      "training_rate": 750.2174587030478,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:34.183547"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 661304,
+      "ngrams_learned": {
+        "2": 21037,
+        "3": 201699,
+        "4": 466411,
+        "5": 595886
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.058842866535174225,
+      "diversity_score": 0.6,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2230.8469950397835,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:34.230262"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 661304,
+      "ngrams_learned": {
+        "2": 21040,
+        "3": 201815,
+        "4": 466734,
+        "5": 596340
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.012987012987012988,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 668.7336841987654,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:35.019745"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 661304,
+      "ngrams_learned": {
+        "2": 21040,
+        "3": 201815,
+        "4": 466734,
+        "5": 596340
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.89787101745605,
+      "training_rate": 668.7336841987654,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:40.072971"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 671623,
+      "ngrams_learned": {
+        "2": 21155,
+        "3": 203932,
+        "4": 473089,
+        "5": 605197
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03333333333333333,
+      "diversity_score": 0.81,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1961.687291731989,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:40.117462"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 671623,
+      "ngrams_learned": {
+        "2": 21158,
+        "3": 203994,
+        "4": 473272,
+        "5": 605469
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.13399810066476733,
+      "diversity_score": 0.79,
+      "memory_usage_mb": 0.0,
+      "training_rate": 886.3878612341485,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:40.477284"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 671623,
+      "ngrams_learned": {
+        "2": 21158,
+        "3": 203994,
+        "4": 473272,
+        "5": 605469
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 67.75234031677246,
+      "training_rate": 886.3878612341485,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:45.025632"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 682198,
+      "ngrams_learned": {
+        "2": 21258,
+        "3": 205898,
+        "4": 479271,
+        "5": 614104
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.01680672268907563,
+      "diversity_score": 0.8049999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2182.359725779371,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:45.059551"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 682198,
+      "ngrams_learned": {
+        "2": 21267,
+        "3": 205977,
+        "4": 479553,
+        "5": 614558
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.011695906432748537,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 861.8991391461221,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:45.726634"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 682198,
+      "ngrams_learned": {
+        "2": 21267,
+        "3": 205977,
+        "4": 479553,
+        "5": 614558
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 68.58758163452148,
+      "training_rate": 861.8991391461221,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:50.640091"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 693271,
+      "ngrams_learned": {
+        "2": 21422,
+        "3": 207888,
+        "4": 485186,
+        "5": 622955
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.019576719576719578,
+      "diversity_score": 0.64,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2017.8209651893862,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:50.682520"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 693271,
+      "ngrams_learned": {
+        "2": 21437,
+        "3": 208099,
+        "4": 485846,
+        "5": 623891
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.025,
+      "diversity_score": 0.76,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2844.69953560577,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:51.059669"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 693271,
+      "ngrams_learned": {
+        "2": 21437,
+        "3": 208099,
+        "4": 485846,
+        "5": 623891
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 69.42000007629395,
+      "training_rate": 2844.69953560577,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:55.543738"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 704300,
+      "ngrams_learned": {
+        "2": 21584,
+        "3": 209852,
+        "4": 491087,
+        "5": 631795
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.05,
+      "diversity_score": 0.575,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2209.9201361979285,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:55.584766"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 704300,
+      "ngrams_learned": {
+        "2": 21592,
+        "3": 210009,
+        "4": 491646,
+        "5": 632630
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2863.7660224871192,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:19:55.944029"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 704300,
+      "ngrams_learned": {
+        "2": 21592,
+        "3": 210009,
+        "4": 491646,
+        "5": 632630
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 70.19437980651855,
+      "training_rate": 2863.7660224871192,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:00.532224"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 714879,
+      "ngrams_learned": {
+        "2": 21764,
+        "3": 212168,
+        "4": 497709,
+        "5": 641091
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.010416666666666666,
+      "diversity_score": 0.75,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2159.338242202633,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:00.575131"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 714879,
+      "ngrams_learned": {
+        "2": 21769,
+        "3": 212323,
+        "4": 498104,
+        "5": 641623
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.07898989898989899,
+      "diversity_score": 0.82,
+      "memory_usage_mb": 0.0,
+      "training_rate": 845.3382223789403,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:01.260012"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 714879,
+      "ngrams_learned": {
+        "2": 21769,
+        "3": 212323,
+        "4": 498104,
+        "5": 641623
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 71.03665351867676,
+      "training_rate": 845.3382223789403,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:06.032454"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 725322,
+      "ngrams_learned": {
+        "2": 21908,
+        "3": 214672,
+        "4": 504736,
+        "5": 650602
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.009259259259259259,
+      "diversity_score": 0.74,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2080.540651358456,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:06.066505"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 725322,
+      "ngrams_learned": {
+        "2": 21913,
+        "3": 214745,
+        "4": 504994,
+        "5": 651001
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.033482142857142856,
+      "diversity_score": 0.72,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1173.4593594363585,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:06.443979"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 725322,
+      "ngrams_learned": {
+        "2": 21913,
+        "3": 214745,
+        "4": 504994,
+        "5": 651001
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 71.90720748901367,
+      "training_rate": 1173.4593594363585,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:11.151703"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 735357,
+      "ngrams_learned": {
+        "2": 22030,
+        "3": 216978,
+        "4": 511253,
+        "5": 659675
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03432950191570881,
+      "diversity_score": 0.7749999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2105.7194353807618,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:11.192997"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 735357,
+      "ngrams_learned": {
+        "2": 22030,
+        "3": 216983,
+        "4": 511273,
+        "5": 659703
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.037037037037037035,
+      "diversity_score": 0.8957671957671959,
+      "memory_usage_mb": 0.0,
+      "training_rate": 52.060269073817096,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:11.865258"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 735357,
+      "ngrams_learned": {
+        "2": 22030,
+        "3": 216983,
+        "4": 511273,
+        "5": 659703
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 72.72359848022461,
+      "training_rate": 52.060269073817096,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:16.657217"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 746325,
+      "ngrams_learned": {
+        "2": 22112,
+        "3": 218765,
+        "4": 517148,
+        "5": 668328
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.016666666666666666,
+      "diversity_score": 0.79,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2072.9557351251124,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:16.689317"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 746325,
+      "ngrams_learned": {
+        "2": 22118,
+        "3": 218914,
+        "4": 517652,
+        "5": 669078
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.81,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2689.310002629639,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:17.049205"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 746325,
+      "ngrams_learned": {
+        "2": 22118,
+        "3": 218914,
+        "4": 517652,
+        "5": 669078
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 73.55462265014648,
+      "training_rate": 2689.310002629639,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:22.010885"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 757324,
+      "ngrams_learned": {
+        "2": 22197,
+        "3": 220680,
+        "4": 523394,
+        "5": 677612
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.008333333333333333,
+      "diversity_score": 0.845,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1995.2776143841763,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:22.061100"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 757324,
+      "ngrams_learned": {
+        "2": 22206,
+        "3": 220852,
+        "4": 523925,
+        "5": 678387
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.12077922077922078,
+      "diversity_score": 0.6950000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2805.3986079159713,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:22.417143"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 757324,
+      "ngrams_learned": {
+        "2": 22206,
+        "3": 220852,
+        "4": 523925,
+        "5": 678387
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 74.38323593139648,
+      "training_rate": 2805.3986079159713,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:27.965235"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 767740,
+      "ngrams_learned": {
+        "2": 22338,
+        "3": 222737,
+        "4": 529706,
+        "5": 686839
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1788.5475159903278,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:28.008325"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 767740,
+      "ngrams_learned": {
+        "2": 22342,
+        "3": 222843,
+        "4": 530001,
+        "5": 687226
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.037037037037037035,
+      "diversity_score": 0.825,
+      "memory_usage_mb": 0.0,
+      "training_rate": 574.793297753081,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:28.732013"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 767740,
+      "ngrams_learned": {
+        "2": 22342,
+        "3": 222843,
+        "4": 530001,
+        "5": 687226
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 75.19806098937988,
+      "training_rate": 574.793297753081,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:33.859817"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 777830,
+      "ngrams_learned": {
+        "2": 22501,
+        "3": 225142,
+        "4": 536475,
+        "5": 696117
+      },
+      "perplexity": Infinity,
+      "coherence_score": 1.0,
+      "diversity_score": 0.75,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1937.5679907033043,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:33.893176"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 777830,
+      "ngrams_learned": {
+        "2": 22502,
+        "3": 225172,
+        "4": 536546,
+        "5": 696197
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03198653198653199,
+      "diversity_score": 0.8166666666666667,
+      "memory_usage_mb": 0.0,
+      "training_rate": 238.26504417992106,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:34.270846"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 777830,
+      "ngrams_learned": {
+        "2": 22502,
+        "3": 225172,
+        "4": 536546,
+        "5": 696197
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 76.06273460388184,
+      "training_rate": 238.26504417992106,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:39.387176"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 788186,
+      "ngrams_learned": {
+        "2": 22615,
+        "3": 227022,
+        "4": 542210,
+        "5": 704466
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.014652014652014652,
+      "diversity_score": 0.835,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1939.1414470180257,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:39.427830"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 788186,
+      "ngrams_learned": {
+        "2": 22616,
+        "3": 227064,
+        "4": 542384,
+        "5": 704744
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.645,
+      "memory_usage_mb": 0.0,
+      "training_rate": 460.94482605121425,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:40.200107"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 788186,
+      "ngrams_learned": {
+        "2": 22616,
+        "3": 227064,
+        "4": 542384,
+        "5": 704744
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 76.84496688842773,
+      "training_rate": 460.94482605121425,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:46.440086"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 798674,
+      "ngrams_learned": {
+        "2": 22672,
+        "3": 228674,
+        "4": 547714,
+        "5": 712830
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06274509803921569,
+      "diversity_score": 0.6900000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1592.0253585109167,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:46.481440"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 798674,
+      "ngrams_learned": {
+        "2": 22675,
+        "3": 228757,
+        "4": 547983,
+        "5": 713235
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.009569377990430622,
+      "diversity_score": 0.75,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1180.579551052002,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:46.894751"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 798674,
+      "ngrams_learned": {
+        "2": 22675,
+        "3": 228757,
+        "4": 547983,
+        "5": 713235
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 77.60346794128418,
+      "training_rate": 1180.579551052002,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:54.309639"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 808594,
+      "ngrams_learned": {
+        "2": 22815,
+        "3": 231205,
+        "4": 554599,
+        "5": 722015
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.029850746268656716,
+      "diversity_score": 0.815,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1310.3092074964402,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:20:54.465529"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 808594,
+      "ngrams_learned": {
+        "2": 22815,
+        "3": 231205,
+        "4": 554599,
+        "5": 722015
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 78.48011207580566,
+      "training_rate": 1310.3092074964402,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:01.114365"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 818591,
+      "ngrams_learned": {
+        "2": 22901,
+        "3": 233384,
+        "4": 561008,
+        "5": 730811
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.77,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1494.3030393571537,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:01.155624"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 818591,
+      "ngrams_learned": {
+        "2": 22145,
+        "3": 220975,
+        "4": 527407,
+        "5": 667625
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 74.9853630065918,
+      "training_rate": 1494.3030393571537,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:09.620462"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 828725,
+      "ngrams_learned": {
+        "2": 22243,
+        "3": 223090,
+        "4": 533619,
+        "5": 676235
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03676470588235294,
+      "diversity_score": 0.845,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1176.3417738105281,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:09.656551"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 828725,
+      "ngrams_learned": {
+        "2": 22249,
+        "3": 223135,
+        "4": 533716,
+        "5": 676360
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03389830508474576,
+      "diversity_score": 0.8300000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 331.3307815063482,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:10.060925"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 828725,
+      "ngrams_learned": {
+        "2": 21577,
+        "3": 211186,
+        "4": 497472,
+        "5": 641546
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 72.61287689208984,
+      "training_rate": 331.3307815063482,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:16.746047"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 838928,
+      "ngrams_learned": {
+        "2": 21667,
+        "3": 213300,
+        "4": 503654,
+        "5": 650369
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.045454545454545456,
+      "diversity_score": 0.7849999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1486.0814677140668,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:16.790077"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 838928,
+      "ngrams_learned": {
+        "2": 21667,
+        "3": 213330,
+        "4": 503760,
+        "5": 650531
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.7949999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 496.45561020264773,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:17.198931"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 838928,
+      "ngrams_learned": {
+        "2": 21203,
+        "3": 206323,
+        "4": 479170,
+        "5": 615187
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 70.8079948425293,
+      "training_rate": 496.45561020264773,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:22.770753"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 849221,
+      "ngrams_learned": {
+        "2": 21255,
+        "3": 208065,
+        "4": 484776,
+        "5": 623521
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.015151515151515152,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1783.114584611816,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:22.807146"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 849221,
+      "ngrams_learned": {
+        "2": 21257,
+        "3": 208136,
+        "4": 484976,
+        "5": 623785
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.11411764705882353,
+      "diversity_score": 0.785,
+      "memory_usage_mb": 0.0,
+      "training_rate": 372.11919140535105,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:23.594490"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 849221,
+      "ngrams_learned": {
+        "2": 21053,
+        "3": 203184,
+        "4": 472850,
+        "5": 597704
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 69.86933326721191,
+      "training_rate": 372.11919140535105,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:28.811102"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 859246,
+      "ngrams_learned": {
+        "2": 21140,
+        "3": 205317,
+        "4": 479014,
+        "5": 606364
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.013157894736842105,
+      "diversity_score": 0.805,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1902.0882816998085,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:28.851898"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 859246,
+      "ngrams_learned": {
+        "2": 21140,
+        "3": 205319,
+        "4": 479026,
+        "5": 606384
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.14285714285714285,
+      "diversity_score": 0.9076923076923077,
+      "memory_usage_mb": 0.0,
+      "training_rate": 62.4303254238822,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:29.252310"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 859246,
+      "ngrams_learned": {
+        "2": 20828,
+        "3": 198584,
+        "4": 459199,
+        "5": 587655
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 68.96254920959473,
+      "training_rate": 62.4303254238822,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:35.641863"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 869268,
+      "ngrams_learned": {
+        "2": 20952,
+        "3": 200684,
+        "4": 465351,
+        "5": 596099
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06781045751633986,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1555.0460106766154,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:35.683029"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 869268,
+      "ngrams_learned": {
+        "2": 20952,
+        "3": 200694,
+        "4": 465370,
+        "5": 596117
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.11764705882352941,
+      "diversity_score": 0.9545454545454546,
+      "memory_usage_mb": 0.0,
+      "training_rate": 37.996530372826385,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:36.261936"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 869268,
+      "ngrams_learned": {
+        "2": 20659,
+        "3": 196425,
+        "4": 447122,
+        "5": 569773
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 67.86199378967285,
+      "training_rate": 37.996530372826385,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:40.894919"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 880226,
+      "ngrams_learned": {
+        "2": 20807,
+        "3": 198799,
+        "4": 453784,
+        "5": 578745
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.023809523809523808,
+      "diversity_score": 0.8,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2142.254381062577,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:40.929999"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 880226,
+      "ngrams_learned": {
+        "2": 20834,
+        "3": 199036,
+        "4": 454407,
+        "5": 579588
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0196078431372549,
+      "diversity_score": 0.77,
+      "memory_usage_mb": 0.0,
+      "training_rate": 955.0256091279891,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:41.933058"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 880226,
+      "ngrams_learned": {
+        "2": 20389,
+        "3": 192696,
+        "4": 441746,
+        "5": 561970
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 67.34334945678711,
+      "training_rate": 955.0256091279891,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:47.265588"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 891109,
+      "ngrams_learned": {
+        "2": 20489,
+        "3": 194730,
+        "4": 447911,
+        "5": 570709
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1845.9772583635106,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:47.350277"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 891109,
+      "ngrams_learned": {
+        "2": 20502,
+        "3": 194903,
+        "4": 448444,
+        "5": 571487
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.031746031746031744,
+      "diversity_score": 0.8,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1793.9474531371322,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:47.842405"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 891109,
+      "ngrams_learned": {
+        "2": 20252,
+        "3": 190871,
+        "4": 436368,
+        "5": 553708
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.87777328491211,
+      "training_rate": 1793.9474531371322,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:53.044977"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 901605,
+      "ngrams_learned": {
+        "2": 20371,
+        "3": 192957,
+        "4": 442503,
+        "5": 562330
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.020066889632107024,
+      "diversity_score": 0.805,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1903.3509072707818,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:53.096415"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 901605,
+      "ngrams_learned": {
+        "2": 20378,
+        "3": 193079,
+        "4": 442829,
+        "5": 562777
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.026494565217391304,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 927.788174169768,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:21:53.630956"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 901605,
+      "ngrams_learned": {
+        "2": 20165,
+        "3": 189194,
+        "4": 430936,
+        "5": 545268
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.39061737060547,
+      "training_rate": 927.788174169768,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:00.629142"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 912106,
+      "ngrams_learned": {
+        "2": 20308,
+        "3": 191352,
+        "4": 437122,
+        "5": 554008
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.14705882352941177,
+      "diversity_score": 0.7050000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1415.38679170661,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:00.696214"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 912106,
+      "ngrams_learned": {
+        "2": 20316,
+        "3": 191450,
+        "4": 437421,
+        "5": 554449
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.041245791245791245,
+      "diversity_score": 0.8,
+      "memory_usage_mb": 0.0,
+      "training_rate": 801.2228374552079,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:01.321383"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 912106,
+      "ngrams_learned": {
+        "2": 20062,
+        "3": 187309,
+        "4": 425340,
+        "5": 537359
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.89102935791016,
+      "training_rate": 801.2228374552079,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:06.665546"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 922809,
+      "ngrams_learned": {
+        "2": 20202,
+        "3": 189420,
+        "4": 431445,
+        "5": 546037
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.041666666666666664,
+      "diversity_score": 0.66,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1856.2125484592805,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:06.708836"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 922809,
+      "ngrams_learned": {
+        "2": 20215,
+        "3": 189559,
+        "4": 431836,
+        "5": 546602
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.008771929824561403,
+      "diversity_score": 0.72,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1979.75373025598,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:07.063835"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 922809,
+      "ngrams_learned": {
+        "2": 20028,
+        "3": 187201,
+        "4": 425581,
+        "5": 538003
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.04575157165527,
+      "training_rate": 1979.75373025598,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:11.373337"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 933219,
+      "ngrams_learned": {
+        "2": 20140,
+        "3": 189223,
+        "4": 431552,
+        "5": 546469
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.009615384615384616,
+      "diversity_score": 0.77,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2296.3837260499995,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:11.418604"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 933219,
+      "ngrams_learned": {
+        "2": 20147,
+        "3": 189345,
+        "4": 431865,
+        "5": 546854
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.029380341880341877,
+      "diversity_score": 0.72,
+      "memory_usage_mb": 0.0,
+      "training_rate": 523.3599933775963,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:12.201947"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 933219,
+      "ngrams_learned": {
+        "2": 19981,
+        "3": 187145,
+        "4": 425581,
+        "5": 537954
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.1754035949707,
+      "training_rate": 523.3599933775963,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:17.626375"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 943870,
+      "ngrams_learned": {
+        "2": 20120,
+        "3": 189549,
+        "4": 432172,
+        "5": 546899
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.7949999999999999,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1829.6238515405807,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:17.667589"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 943870,
+      "ngrams_learned": {
+        "2": 20123,
+        "3": 189658,
+        "4": 432555,
+        "5": 547473
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.031818181818181815,
+      "diversity_score": 0.8,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1527.8522066492683,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:18.093633"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 943870,
+      "ngrams_learned": {
+        "2": 19827,
+        "3": 185446,
+        "4": 420418,
+        "5": 530336
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.6983642578125,
+      "training_rate": 1527.8522066492683,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:22.819147"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 953927,
+      "ngrams_learned": {
+        "2": 20012,
+        "3": 188073,
+        "4": 427153,
+        "5": 539147
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.745,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2075.6941998548705,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:22.911340"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 953927,
+      "ngrams_learned": {
+        "2": 20016,
+        "3": 188093,
+        "4": 427195,
+        "5": 539197
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.04301075268817204,
+      "diversity_score": 0.8945833333333333,
+      "memory_usage_mb": 0.0,
+      "training_rate": 85.14794263335523,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:23.580710"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 953927,
+      "ngrams_learned": {
+        "2": 19934,
+        "3": 185977,
+        "4": 421208,
+        "5": 530922
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.8861255645752,
+      "training_rate": 85.14794263335523,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:28.165132"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 964267,
+      "ngrams_learned": {
+        "2": 20033,
+        "3": 188161,
+        "4": 427497,
+        "5": 539644
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0205,
+      "diversity_score": 0.8150000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2164.9081031117344,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:28.199917"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 964267,
+      "ngrams_learned": {
+        "2": 20036,
+        "3": 188228,
+        "4": 427708,
+        "5": 539947
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0058823529411764705,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 470.9705029021525,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:28.921783"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 964267,
+      "ngrams_learned": {
+        "2": 19932,
+        "3": 186186,
+        "4": 421749,
+        "5": 531658
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.06343269348145,
+      "training_rate": 470.9705029021525,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:33.845417"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 974558,
+      "ngrams_learned": {
+        "2": 20061,
+        "3": 188810,
+        "4": 428551,
+        "5": 540614
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.02080364776289541,
+      "diversity_score": 0.775,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2017.1903719373656,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:33.879222"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 974558,
+      "ngrams_learned": {
+        "2": 20064,
+        "3": 188885,
+        "4": 428765,
+        "5": 540884
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.007905138339920948,
+      "diversity_score": 0.88,
+      "memory_usage_mb": 0.0,
+      "training_rate": 799.7625787039251,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:34.243027"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 974558,
+      "ngrams_learned": {
+        "2": 19992,
+        "3": 187087,
+        "4": 423109,
+        "5": 532500
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.31528091430664,
+      "training_rate": 799.7625787039251,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:39.090097"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 984499,
+      "ngrams_learned": {
+        "2": 20136,
+        "3": 189642,
+        "4": 429804,
+        "5": 541342
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.041666666666666664,
+      "diversity_score": 0.8200000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2034.7157414746735,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:39.128752"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 984499,
+      "ngrams_learned": {
+        "2": 19929,
+        "3": 185397,
+        "4": 417441,
+        "5": 523767
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.82364273071289,
+      "training_rate": 2034.7157414746735,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:43.700026"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 994795,
+      "ngrams_learned": {
+        "2": 20060,
+        "3": 187801,
+        "4": 424121,
+        "5": 532734
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03663865546218487,
+      "diversity_score": 0.77,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2173.58953643297,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:43.729460"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 994795,
+      "ngrams_learned": {
+        "2": 20062,
+        "3": 187847,
+        "4": 424287,
+        "5": 532981
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.024691358024691357,
+      "diversity_score": 0.76,
+      "memory_usage_mb": 0.0,
+      "training_rate": 412.20620769248137,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:44.447476"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 994795,
+      "ngrams_learned": {
+        "2": 19988,
+        "3": 186019,
+        "4": 418552,
+        "5": 524586
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.05624008178711,
+      "training_rate": 412.20620769248137,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:50.266841"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1005166,
+      "ngrams_learned": {
+        "2": 20102,
+        "3": 188178,
+        "4": 424930,
+        "5": 533478
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.11738312346215081,
+      "diversity_score": 0.795,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1708.0328288296023,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:50.302238"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1005166,
+      "ngrams_learned": {
+        "2": 20106,
+        "3": 188247,
+        "4": 425160,
+        "5": 533812
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.010416666666666666,
+      "diversity_score": 0.73,
+      "memory_usage_mb": 0.0,
+      "training_rate": 607.5654010020365,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:50.912757"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1005166,
+      "ngrams_learned": {
+        "2": 19980,
+        "3": 184621,
+        "4": 413524,
+        "5": 516932
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.61517524719238,
+      "training_rate": 607.5654010020365,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:55.933159"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1015451,
+      "ngrams_learned": {
+        "2": 20186,
+        "3": 187327,
+        "4": 420338,
+        "5": 525869
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.09721479500891266,
+      "diversity_score": 0.825,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1977.1509020108958,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:55.970652"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1015451,
+      "ngrams_learned": {
+        "2": 20190,
+        "3": 187405,
+        "4": 420547,
+        "5": 526134
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.014520202020202022,
+      "diversity_score": 0.8,
+      "memory_usage_mb": 0.0,
+      "training_rate": 395.498311473083,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:22:56.691204"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1015451,
+      "ngrams_learned": {
+        "2": 20011,
+        "3": 183469,
+        "4": 408294,
+        "5": 508773
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.16738891601562,
+      "training_rate": 395.498311473083,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:01.283092"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1025838,
+      "ngrams_learned": {
+        "2": 20175,
+        "3": 185935,
+        "4": 414974,
+        "5": 517711
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.037322515212981744,
+      "diversity_score": 0.84,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2162.529260215444,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:01.315481"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1025838,
+      "ngrams_learned": {
+        "2": 20183,
+        "3": 186078,
+        "4": 415269,
+        "5": 518074
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.10439276485788114,
+      "diversity_score": 0.8200000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 995.2253628639907,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:01.704260"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1025838,
+      "ngrams_learned": {
+        "2": 20113,
+        "3": 184203,
+        "4": 409185,
+        "5": 509241
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.39937019348145,
+      "training_rate": 995.2253628639907,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:06.505525"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1036328,
+      "ngrams_learned": {
+        "2": 20247,
+        "3": 186303,
+        "4": 415295,
+        "5": 517848
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.045054945054945054,
+      "diversity_score": 0.855,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2065.157546707632,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:06.546576"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1036328,
+      "ngrams_learned": {
+        "2": 20248,
+        "3": 186367,
+        "4": 415525,
+        "5": 518230
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.6950000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1385.5876856363886,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:06.900157"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1036328,
+      "ngrams_learned": {
+        "2": 20176,
+        "3": 184507,
+        "4": 409436,
+        "5": 509449
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.56977081298828,
+      "training_rate": 1385.5876856363886,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:11.145156"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1046738,
+      "ngrams_learned": {
+        "2": 20342,
+        "3": 186746,
+        "4": 415778,
+        "5": 518177
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.01,
+      "diversity_score": 0.785,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2335.678755072104,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:11.181628"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1046738,
+      "ngrams_learned": {
+        "2": 20344,
+        "3": 186814,
+        "4": 416010,
+        "5": 518531
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.022534013605442178,
+      "diversity_score": 0.78,
+      "memory_usage_mb": 0.0,
+      "training_rate": 533.8053589609874,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:11.949648"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1046738,
+      "ngrams_learned": {
+        "2": 20264,
+        "3": 184721,
+        "4": 409643,
+        "5": 509566
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.71671867370605,
+      "training_rate": 533.8053589609874,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:16.159449"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1057553,
+      "ngrams_learned": {
+        "2": 20399,
+        "3": 186632,
+        "4": 415405,
+        "5": 517967
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.010101010101010102,
+      "diversity_score": 0.8,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2349.1030509971006,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:16.206642"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1057553,
+      "ngrams_learned": {
+        "2": 20409,
+        "3": 186798,
+        "4": 415907,
+        "5": 518694
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.09466810966810967,
+      "diversity_score": 0.85,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2353.8518151269764,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:16.552804"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1057553,
+      "ngrams_learned": {
+        "2": 20338,
+        "3": 184828,
+        "4": 409684,
+        "5": 509870
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.85152626037598,
+      "training_rate": 2353.8518151269764,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:21.195842"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1068333,
+      "ngrams_learned": {
+        "2": 20447,
+        "3": 186607,
+        "4": 415190,
+        "5": 518037
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.05218855218855219,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2138.477543916806,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:21.229118"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1068333,
+      "ngrams_learned": {
+        "2": 20455,
+        "3": 186743,
+        "4": 415625,
+        "5": 518682
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.005681818181818182,
+      "diversity_score": 0.8,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2176.703537688616,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:21.587379"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1068333,
+      "ngrams_learned": {
+        "2": 20379,
+        "3": 184862,
+        "4": 409726,
+        "5": 510192
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 65.98900985717773,
+      "training_rate": 2176.703537688616,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:25.955331"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1079012,
+      "ngrams_learned": {
+        "2": 20451,
+        "3": 186635,
+        "4": 415432,
+        "5": 518549
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.13008130081300814,
+      "diversity_score": 0.65,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2268.6281900812533,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:25.995400"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1079012,
+      "ngrams_learned": {
+        "2": 20468,
+        "3": 186831,
+        "4": 415925,
+        "5": 519188
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.022222222222222223,
+      "diversity_score": 0.835,
+      "memory_usage_mb": 0.0,
+      "training_rate": 951.3810104119898,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:26.708985"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1079012,
+      "ngrams_learned": {
+        "2": 20411,
+        "3": 185294,
+        "4": 410298,
+        "5": 510512
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.17536735534668,
+      "training_rate": 951.3810104119898,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:31.016914"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1089678,
+      "ngrams_learned": {
+        "2": 20484,
+        "3": 187075,
+        "4": 416063,
+        "5": 518921
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.03002450980392157,
+      "diversity_score": 0.85,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2300.5700107494763,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:31.055856"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1089678,
+      "ngrams_learned": {
+        "2": 20488,
+        "3": 187184,
+        "4": 416420,
+        "5": 519424
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.15968992248062014,
+      "diversity_score": 0.8400000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1883.150088750675,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:31.409470"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1089678,
+      "ngrams_learned": {
+        "2": 20421,
+        "3": 185594,
+        "4": 410910,
+        "5": 511044
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.37012481689453,
+      "training_rate": 1883.150088750675,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:35.536194"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1100093,
+      "ngrams_learned": {
+        "2": 20568,
+        "3": 187921,
+        "4": 417277,
+        "5": 519728
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.02040816326530612,
+      "diversity_score": 0.76,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2405.6805276742184,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:35.566342"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1100093,
+      "ngrams_learned": {
+        "2": 20574,
+        "3": 188025,
+        "4": 417565,
+        "5": 520108
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.08832833832833832,
+      "diversity_score": 0.8,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1179.8067586353675,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:35.917999"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1100093,
+      "ngrams_learned": {
+        "2": 20462,
+        "3": 186139,
+        "4": 411619,
+        "5": 511309
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.58146095275879,
+      "training_rate": 1179.8067586353675,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:40.448992"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1110532,
+      "ngrams_learned": {
+        "2": 20587,
+        "3": 188393,
+        "4": 418026,
+        "5": 520189
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06813186813186814,
+      "diversity_score": 0.765,
+      "memory_usage_mb": 0.0,
+      "training_rate": 2186.821637162095,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:40.490937"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1110532,
+      "ngrams_learned": {
+        "2": 20596,
+        "3": 188496,
+        "4": 418319,
+        "5": 520592
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.06666666666666668,
+      "diversity_score": 0.86,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1113.1878037190506,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:40.885225"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1110532,
+      "ngrams_learned": {
+        "2": 20596,
+        "3": 188496,
+        "4": 418319,
+        "5": 511962
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 67.07954788208008,
+      "training_rate": 1113.1878037190506,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:45.922419"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1121015,
+      "ngrams_learned": {
+        "2": 20719,
+        "3": 190672,
+        "4": 424713,
+        "5": 520867
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.039097744360902256,
+      "diversity_score": 0.815,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1964.8007612043964,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:45.974874"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1121015,
+      "ngrams_learned": {
+        "2": 20724,
+        "3": 190775,
+        "4": 425049,
+        "5": 521315
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.015873015873015872,
+      "diversity_score": 0.845,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1318.2503001423113,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:46.341211"
+    },
+    {
+      "epoch": 2,
+      "tokens_processed": 1121015,
+      "ngrams_learned": {
+        "2": 20486,
+        "3": 186818,
+        "4": 412702,
+        "5": 512295
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 66.99119567871094,
+      "training_rate": 1318.2503001423113,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:50.485998"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1128544,
+      "ngrams_learned": {
+        "2": 20652,
+        "3": 189010,
+        "4": 418108,
+        "5": 519257
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.034188034188034185,
+      "diversity_score": 0.8200000000000001,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1804.9686020695094,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:50.512538"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 1128544,
+      "ngrams_learned": {
+        "2": 20592,
+        "3": 187769,
+        "4": 412610,
+        "5": 510510
+      },
+      "perplexity": Infinity,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 67.07050704956055,
+      "training_rate": 1804.9686020695094,
+      "validation_loss": Infinity,
+      "timestamp": "2026-01-18T22:23:55.562182"
+    }
+  ],
+  "validation_history": [],
+  "total_training_time": 478.068883895874,
+  "tokens_processed": 1128544
+}

@@ -1,0 +1,14 @@
+{
+  "tokens_processed": 5538001,
+  "ngrams_learned": {
+    "2": 15933,
+    "3": 180597,
+    "4": 307674,
+    "5": 269728
+  },
+  "resolution": 128,
+  "save_time": "2026-01-24T11:19:22.237739",
+  "memory_usage_mb": 35.21955871582031,
+  "training_time": 8612.200321674347,
+  "model_version": "3.1"
+}

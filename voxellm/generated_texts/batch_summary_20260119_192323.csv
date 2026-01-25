@@ -1,0 +1,11 @@
+timestamp,prompt,temperature,coherence,diversity,flesch,sentiment
+2026-01-19T19:23:14.781890,"it was the best of times, it was the worst of time...",0.73,0.0130,0.7926,86.20,0.50
+2026-01-19T19:23:17.082416,"it was the best of times, it was the worst of time...",0.83,0.0288,0.8063,90.60,0.33
+2026-01-19T19:23:18.196767,"it was the best of times, it was the worst of time...",0.96,0.0042,0.8059,86.23,0.33
+2026-01-19T19:23:19.044962,"it was the best of times, it was the worst of time...",1.08,0.0185,0.8444,75.60,0.00
+2026-01-19T19:23:20.922104,"it was the best of times, it was the worst of time...",1.10,0.0174,0.8010,76.89,0.33
+2026-01-19T19:23:22.085182,"it was the best of times, it was the worst of time...",0.73,0.0664,0.8182,76.75,0.33
+2026-01-19T19:23:22.168224,"it was the best of times, it was the worst of time...",1.16,0.0000,0.8708,94.17,0.00
+2026-01-19T19:23:22.416614,"it was the best of times, it was the worst of time...",1.00,0.0000,0.8333,92.17,0.00
+2026-01-19T19:23:23.115198,"it was the best of times, it was the worst of time...",1.12,0.0294,0.8184,91.38,0.00
+2026-01-19T19:23:23.658813,"it was the best of times, it was the worst of time...",0.81,0.0000,0.8738,88.40,0.33
