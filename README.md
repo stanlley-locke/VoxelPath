@@ -12,13 +12,13 @@ VoxelLM implements the **VoxelPath** paradigm - a deterministic spatial AI syste
 
 ### Key Features
 
-- **🎯 Geometric Encoding**: Maps 3-character sequences (trigrams) to unique (x,y,z) coordinates in a 128³ voxel cube
-- **⚡ Ultra-Lightweight**: ~8.4 MB memory footprint (entire model fits in CPU L3 cache)
-- **🚀 O(n) Complexity**: Linear training and inference time
-- **💡 Transparent**: Visualizable decision paths, no "black box"
-- **🔧 Hybrid Architecture**: Neural n-gram scorer for enhanced accuracy
-- **📚 RAG Integration**: Document retrieval with embedding-based search
-- **🌐 Modern Web UI**: TypeScript interface with real-time training visualization
+- ** Geometric Encoding**: Maps 3-character sequences (trigrams) to unique (x,y,z) coordinates in a 128³ voxel cube
+- ** Ultra-Lightweight**: ~8.4 MB memory footprint (entire model fits in CPU L3 cache)
+- ** O(n) Complexity**: Linear training and inference time
+- ** Transparent**: Visualizable decision paths, no "black box"
+- ** Hybrid Architecture**: Neural n-gram scorer for enhanced accuracy
+- ** RAG Integration**: Document retrieval with embedding-based search
+- ** Modern Web UI**: TypeScript interface with real-time training visualization
 
 ## 📖 Whitepaper
 
@@ -92,7 +92,7 @@ VoxelLM is based on the **VoxelPath** research by Stanley Wasonga (BSc Cloud Com
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/voxellm.git
+git clone https://github.com/stanlley-locke/voxellm.git
 cd voxellm
 
 # Create virtual environment
@@ -340,4 +340,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-**Built with ❤️ using Geometric AI**
+**Built with  using Stanlley Locke VoxelPath**
