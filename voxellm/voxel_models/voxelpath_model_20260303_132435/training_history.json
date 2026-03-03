@@ -1,0 +1,187 @@
+{
+  "training_history": [
+    {
+      "epoch": 1,
+      "tokens_processed": 7059,
+      "ngrams_learned": {
+        "2": 7058,
+        "3": 7057,
+        "4": 7056,
+        "5": 7055
+      },
+      "perplexity": 1.0,
+      "training_loss": 0.07379154461159296,
+      "coherence_score": 1.0,
+      "diversity_score": 1.0,
+      "memory_usage_mb": 0.0,
+      "training_rate": 77.37302705861526,
+      "validation_loss": 1.0,
+      "timestamp": "2026-03-03T13:24:12.480233"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 7059,
+      "ngrams_learned": {
+        "2": 7058,
+        "3": 7057,
+        "4": 7056,
+        "5": 7055
+      },
+      "perplexity": 1.0,
+      "training_loss": 0.0,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 9.346588134765625,
+      "training_rate": 77.37302705861526,
+      "validation_loss": 1.0,
+      "timestamp": "2026-03-03T13:24:16.198137"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 13893,
+      "ngrams_learned": {
+        "2": 6833,
+        "3": 6832,
+        "4": 6831,
+        "5": 6830
+      },
+      "perplexity": 1.0,
+      "training_loss": 0.0383754387515523,
+      "coherence_score": 1.0,
+      "diversity_score": 1.0,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1765.2071683344675,
+      "validation_loss": 1.0,
+      "timestamp": "2026-03-03T13:24:16.351731"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 13893,
+      "ngrams_learned": {
+        "2": 13891,
+        "3": 13889,
+        "4": 13887,
+        "5": 13885
+      },
+      "perplexity": 1.0,
+      "training_loss": 0.0,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 10.650737762451172,
+      "training_rate": 1765.2071683344675,
+      "validation_loss": 1.0,
+      "timestamp": "2026-03-03T13:24:20.906339"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 20881,
+      "ngrams_learned": {
+        "2": 5932,
+        "3": 6986,
+        "4": 6985,
+        "5": 6984
+      },
+      "perplexity": 1.0,
+      "training_loss": 0.04032113675194728,
+      "coherence_score": 1.0,
+      "diversity_score": 1.0,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1480.5927520263197,
+      "validation_loss": 1.0,
+      "timestamp": "2026-03-03T13:24:21.071440"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 20881,
+      "ngrams_learned": {
+        "2": 19823,
+        "3": 20875,
+        "4": 20872,
+        "5": 20869
+      },
+      "perplexity": 1.0,
+      "training_loss": 0.0,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 11.92770767211914,
+      "training_rate": 1480.5927520263197,
+      "validation_loss": 1.0,
+      "timestamp": "2026-03-03T13:24:25.947706"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 28072,
+      "ngrams_learned": {
+        "2": 6080,
+        "3": 7188,
+        "4": 7188,
+        "5": 7187
+      },
+      "perplexity": 1.0344827586206897,
+      "training_loss": 0.04143111950433281,
+      "coherence_score": 1.0,
+      "diversity_score": 1.0,
+      "memory_usage_mb": 0.0,
+      "training_rate": 1361.960607270376,
+      "validation_loss": 1.0344827586206897,
+      "timestamp": "2026-03-03T13:24:26.351338"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 28072,
+      "ngrams_learned": {
+        "2": 25903,
+        "3": 28063,
+        "4": 28060,
+        "5": 28056
+      },
+      "perplexity": 1.0344827586206897,
+      "training_loss": 0.0,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 13.25522232055664,
+      "training_rate": 1361.960607270376,
+      "validation_loss": 1.0344827586206897,
+      "timestamp": "2026-03-03T13:24:31.938742"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 32037,
+      "ngrams_learned": {
+        "2": 3589,
+        "3": 3961,
+        "4": 3962,
+        "5": 3961
+      },
+      "perplexity": 1.0344827586206897,
+      "training_loss": 0.030515355064630215,
+      "coherence_score": 1.0,
+      "diversity_score": 1.0,
+      "memory_usage_mb": 0.0,
+      "training_rate": 663.9491885150599,
+      "validation_loss": 1.0344827586206897,
+      "timestamp": "2026-03-03T13:24:32.323176"
+    },
+    {
+      "epoch": 1,
+      "tokens_processed": 32037,
+      "ngrams_learned": {
+        "2": 29492,
+        "3": 32024,
+        "4": 32022,
+        "5": 32017
+      },
+      "perplexity": 1.0344827586206897,
+      "training_loss": 0.0,
+      "coherence_score": 0.0,
+      "diversity_score": 0.0,
+      "memory_usage_mb": 13.99527359008789,
+      "training_rate": 663.9491885150599,
+      "validation_loss": 1.0344827586206897,
+      "timestamp": "2026-03-03T13:24:35.598017"
+    }
+  ],
+  "validation_history": [],
+  "total_training_time": 22.895646333694458,
+  "tokens_processed": 32037
+}

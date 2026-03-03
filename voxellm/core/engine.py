@@ -112,10 +112,10 @@ class VoxelPathProductionEngine:
         
         # Show detailed breakdown
         chars_per_token = len(text) / len(tokens) if tokens else 0
-        print(f"[TRAIN] ═══════════════════════════════════════════")
+        print(f"[TRAIN]")
         print(f"  Input:      {len(text):,} characters")
         print(f"  Tokenized:  {len(tokens):,} tokens ({chars_per_token:.2f} chars/tok)")
-        print(f"[TRAIN] ═══════════════════════════════════════════")
+        print(f"[TRAIN]")
         
         self.tokens_processed += len(tokens)
         
@@ -230,16 +230,16 @@ class VoxelPathProductionEngine:
         duration = time.time() - start_time
         avg_speed = len(tokens) / duration if duration > 0 else 0
         
-        print(f"[TRAIN] ═══════════════════════════════════════════")
+        print(f"[TRAIN] ")
         print(f"[TRAIN] Training Complete!")
-        print(f"[TRAIN] ───────────────────────────────────────────")
+        print(f"[TRAIN]")
         print(f"  Duration:    {duration:.1f}s ({avg_speed:.0f} tok/s avg)")
         print(f"  Total N-grams: {total_ngrams:,}")
         print(f"    Breakdown:   {ngram_summary}")
         print(f"  Final Loss:    {final_metrics.training_loss:.4f}")
         print(f"  Final PPL:     {final_metrics.perplexity:.2f}")
         print(f"  Memory:        {final_metrics.memory_usage_mb:.1f} MB")
-        print(f"[TRAIN] ═══════════════════════════════════════════")
+        print(f"[TRAIN]")
               
         return final_metrics
         
