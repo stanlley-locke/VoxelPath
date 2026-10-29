@@ -18,7 +18,7 @@ export interface ChatRequest {
 
 export interface ChatResponse {
     message: ChatMessage;
-    metrics: Record<string, any>;
+    metrics: Record<string, MetricValue>;
 }
 
 export interface TrainingConfig {
@@ -42,15 +42,17 @@ export interface TrainingStatus {
     progress_percent: number;
     current_batch: number;
     total_batches: number;
-    metrics: Record<string, any>;
+    metrics: Record<string, MetricValue>;
 }
 
 export interface ModelInfo {
     name: string;
     size_mb: number;
     created: string;
-    metrics: Record<string, any>;
+    metrics: Record<string, MetricValue>;
 }
+
+export type MetricValue = string | number | boolean | null;
 
 export interface SystemStatus {
     is_training: boolean;

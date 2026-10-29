@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Download, Upload, Trash2, Save, RefreshCw } from 'lucide-react';
+import { Download, Upload, Save, RefreshCw } from 'lucide-react';
 import { apiClient } from '../lib/api-client';
 import type { ModelInfo } from '../types/api';
 

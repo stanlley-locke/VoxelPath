@@ -28,6 +28,22 @@ VoxelLM is based on the **VoxelPath** research by Stanley Wasonga (BSc Cloud Com
 
 [Read Full Whitepaper](./WHITEPAPER.md)
 
+### 🌐 Interactive Whitepaper
+
+The whitepaper is also available as a responsive GitHub Pages site:
+
+**[Open the VoxelPath whitepaper site](https://stanlley-locke.github.io/VoxelPath/)**
+
+To run it locally:
+
+```bash
+cd web
+npm install
+npm run dev
+```
+
+Every push to `main` builds and deploys the site through [`.github/workflows/deploy-pages.yml`](./.github/workflows/deploy-pages.yml).
+
 ## 🏗️ Architecture
 
 ```

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Play, Square, Settings as SettingsIcon, Activity, Upload as UploadIcon } from 'lucide-react';
 import { apiClient } from '../lib/api-client';
-import type { TrainingConfig } from '../types/api';
+import type { MetricValue, TrainingConfig } from '../types/api';
 
 export default function TrainingInterface() {
     const [corpus, setCorpus] = useState('');
@@ -10,7 +10,7 @@ export default function TrainingInterface() {
     const [progress, setProgress] = useState(0);
     const [currentBatch, setCurrentBatch] = useState(0);
     const [totalBatches, setTotalBatches] = useState(0);
-    const [metrics, setMetrics] = useState<any>({});
+    const [metrics, setMetrics] = useState<Record<string, MetricValue>>({});
 
     // Training config
     const [batchSize, setBatchSize] = useState(10000);
